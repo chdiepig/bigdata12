@@ -1,0 +1,210 @@
+2022-09-22 15:10:52,533 - [INFO] - json_services.py[10]: json订单处理，程序开始执行.........
+2022-09-22 15:10:52,534 - [INFO] - json_services.py[14]: 获取到文件有['../data/x00', '../data/x01', '../data/x02', '../data/x03', '../data/x04', '../data/x05', '../data/x06']
+2022-09-22 15:10:52,563 - [INFO] - mysql_util.py[31]: 构建完成到192.168.88.100:3306的数据库连接...
+2022-09-22 15:10:52,564 - [INFO] - mysql_util.py[63]: 执行了语句:show tables,查询的结果有2条
+2022-09-22 15:10:52,564 - [INFO] - mysql_util.py[125]: 数据库:metadata中,表file_monitor已经存在,创建表的操作跳过。
+2022-09-22 15:10:52,565 - [INFO] - mysql_util.py[63]: 执行了语句:select file_name from file_monitor,查询的结果有0条
+2022-09-22 15:10:52,566 - [INFO] - json_services.py[21]: 获取到的以及被处理的文件有:[]
+2022-09-22 15:10:52,566 - [INFO] - json_services.py[25]: 获取到的需要处理的文件有:['../data/x00', '../data/x01', '../data/x02', '../data/x03', '../data/x04', '../data/x05', '../data/x06']
+2022-09-22 15:10:52,579 - [INFO] - mysql_util.py[31]: 构建完成到192.168.88.100:3306的数据库连接...
+2022-09-22 15:10:52,580 - [INFO] - mysql_util.py[63]: 执行了语句:show tables,查询的结果有1条
+2022-09-22 15:19:16,965 - [INFO] - json_services.py[10]: json订单处理，程序开始执行.........
+2022-09-22 15:19:16,965 - [INFO] - json_services.py[14]: 获取到文件有['../data/x00', '../data/x01', '../data/x02', '../data/x03', '../data/x04', '../data/x05', '../data/x06']
+2022-09-22 15:19:16,989 - [INFO] - mysql_util.py[31]: 构建完成到192.168.88.100:3306的数据库连接...
+2022-09-22 15:19:16,990 - [INFO] - mysql_util.py[63]: 执行了语句:show tables,查询的结果有2条
+2022-09-22 15:19:16,990 - [INFO] - mysql_util.py[125]: 数据库:metadata中,表file_monitor已经存在,创建表的操作跳过。
+2022-09-22 15:19:16,991 - [INFO] - mysql_util.py[63]: 执行了语句:select file_name from file_monitor,查询的结果有0条
+2022-09-22 15:19:16,991 - [INFO] - json_services.py[21]: 获取到的以及被处理的文件有:[]
+2022-09-22 15:19:16,991 - [INFO] - json_services.py[25]: 获取到的需要处理的文件有:['../data/x00', '../data/x01', '../data/x02', '../data/x03', '../data/x04', '../data/x05', '../data/x06']
+2022-09-22 15:19:17,004 - [INFO] - mysql_util.py[31]: 构建完成到192.168.88.100:3306的数据库连接...
+2022-09-22 15:19:17,005 - [INFO] - mysql_util.py[63]: 执行了语句:show tables,查询的结果有1条
+2022-09-22 15:19:17,009 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: create table orders(order_id VARCHAR(255) PRIMARY KEY, store_id INT COMMENT '店铺ID', store_name VARCHAR(30) COMMENT '店铺名称', store_status VARCHAR(10) COMMENT '店铺状态(open,close)', store_own_user_id INT COMMENT '店主id', store_own_user_name VARCHAR(50) COMMENT '店主名称', store_own_user_tel VARCHAR(15) COMMENT '店主手机号', store_category VARCHAR(10) COMMENT '店铺类型(normal,test)', store_address VARCHAR(255) COMMENT '店铺地址', store_shop_no VARCHAR(255) COMMENT '店铺第三方支付id号', store_province VARCHAR(10) COMMENT '店铺所在省', store_city VARCHAR(10) COMMENT '店铺所在市', store_district VARCHAR(10) COMMENT '店铺所在行政区', store_gps_name VARCHAR(255) COMMENT '店铺gps名称', store_gps_address VARCHAR(255) COMMENT '店铺gps地址', store_gps_longitude VARCHAR(255) COMMENT '店铺gps经度', store_gps_latitude VARCHAR(255) COMMENT '店铺gps纬度', is_signed TINYINT COMMENT '是否第三方支付签约(0,1)', operator VARCHAR(10) COMMENT '操作员', operator_name VARCHAR(50) COMMENT '操作员名称', face_id VARCHAR(255) COMMENT '顾客面部识别ID', member_id VARCHAR(255) COMMENT '顾客会员ID', store_create_date_ts TIMESTAMP COMMENT '店铺创建时间', origin VARCHAR(255) COMMENT '原始信息(无用)', day_order_seq INT COMMENT '本订单是当日第几单', discount_rate DECIMAL(10, 5) COMMENT '折扣率', discount_type TINYINT COMMENT '折扣类型', discount DECIMAL(10, 5) COMMENT '折扣金额', money_before_whole_discount DECIMAL(10, 5) COMMENT '折扣前总金额', receivable DECIMAL(10, 5) COMMENT '应收金额', erase DECIMAL(10, 5) COMMENT '抹零金额', small_change DECIMAL(10, 5) COMMENT '找零金额', total_no_discount DECIMAL(10, 5) COMMENT '总价格(无折扣)', pay_total DECIMAL(10, 5) COMMENT '付款金额', pay_type VARCHAR(10) COMMENT '付款类型', payment_channel TINYINT COMMENT '付款通道', payment_scenarios VARCHAR(15) COMMENT '付款描述(无用)', product_count INT COMMENT '本单卖出多少商品', date_ts datetime COMMENT '订单时间', INDEX (receivable), INDEX (date_ts))
+2022-09-22 15:19:17,010 - [INFO] - mysql_util.py[123]: 在数据库:retail中创建了表:orders完成。建表语句是:create table orders(order_id VARCHAR(255) PRIMARY KEY, store_id INT COMMENT '店铺ID', store_name VARCHAR(30) COMMENT '店铺名称', store_status VARCHAR(10) COMMENT '店铺状态(open,close)', store_own_user_id INT COMMENT '店主id', store_own_user_name VARCHAR(50) COMMENT '店主名称', store_own_user_tel VARCHAR(15) COMMENT '店主手机号', store_category VARCHAR(10) COMMENT '店铺类型(normal,test)', store_address VARCHAR(255) COMMENT '店铺地址', store_shop_no VARCHAR(255) COMMENT '店铺第三方支付id号', store_province VARCHAR(10) COMMENT '店铺所在省', store_city VARCHAR(10) COMMENT '店铺所在市', store_district VARCHAR(10) COMMENT '店铺所在行政区', store_gps_name VARCHAR(255) COMMENT '店铺gps名称', store_gps_address VARCHAR(255) COMMENT '店铺gps地址', store_gps_longitude VARCHAR(255) COMMENT '店铺gps经度', store_gps_latitude VARCHAR(255) COMMENT '店铺gps纬度', is_signed TINYINT COMMENT '是否第三方支付签约(0,1)', operator VARCHAR(10) COMMENT '操作员', operator_name VARCHAR(50) COMMENT '操作员名称', face_id VARCHAR(255) COMMENT '顾客面部识别ID', member_id VARCHAR(255) COMMENT '顾客会员ID', store_create_date_ts TIMESTAMP COMMENT '店铺创建时间', origin VARCHAR(255) COMMENT '原始信息(无用)', day_order_seq INT COMMENT '本订单是当日第几单', discount_rate DECIMAL(10, 5) COMMENT '折扣率', discount_type TINYINT COMMENT '折扣类型', discount DECIMAL(10, 5) COMMENT '折扣金额', money_before_whole_discount DECIMAL(10, 5) COMMENT '折扣前总金额', receivable DECIMAL(10, 5) COMMENT '应收金额', erase DECIMAL(10, 5) COMMENT '抹零金额', small_change DECIMAL(10, 5) COMMENT '找零金额', total_no_discount DECIMAL(10, 5) COMMENT '总价格(无折扣)', pay_total DECIMAL(10, 5) COMMENT '付款金额', pay_type VARCHAR(10) COMMENT '付款类型', payment_channel TINYINT COMMENT '付款通道', payment_scenarios VARCHAR(15) COMMENT '付款描述(无用)', product_count INT COMMENT '本单卖出多少商品', date_ts datetime COMMENT '订单时间', INDEX (receivable), INDEX (date_ts))
+2022-09-22 15:19:17,011 - [INFO] - mysql_util.py[63]: 执行了语句:show tables,查询的结果有2条
+2022-09-22 15:19:17,014 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: create table orders_detail(order_id VARCHAR(255) COMMENT '订单ID', barcode VARCHAR(255) COMMENT '商品条码', name VARCHAR(255) COMMENT '商品名称', count INT COMMENT '本单此商品卖出数量', price_per DECIMAL(10, 5) COMMENT '实际售卖单价', retail_price DECIMAL(10, 5) COMMENT '零售建议价', trade_price DECIMAL(10, 5) COMMENT '贸易价格(进货价)', category_id INT COMMENT '商品类别ID', unit_id INT COMMENT '商品单位ID(包、袋、箱、等)', PRIMARY KEY (order_id, barcode))
+2022-09-22 15:19:17,014 - [INFO] - mysql_util.py[123]: 在数据库:retail中创建了表:orders_detail完成。建表语句是:create table orders_detail(order_id VARCHAR(255) COMMENT '订单ID', barcode VARCHAR(255) COMMENT '商品条码', name VARCHAR(255) COMMENT '商品名称', count INT COMMENT '本单此商品卖出数量', price_per DECIMAL(10, 5) COMMENT '实际售卖单价', retail_price DECIMAL(10, 5) COMMENT '零售建议价', trade_price DECIMAL(10, 5) COMMENT '贸易价格(进货价)', category_id INT COMMENT '商品类别ID', unit_id INT COMMENT '商品单位ID(包、袋、箱、等)', PRIMARY KEY (order_id, barcode))
+2022-09-22 15:19:17,091 - [INFO] - json_services.py[99]: 完成了CSV备份文件的写出，写出到了：../output_csv/orders_and_detail_csv/
+2022-09-22 15:19:18,339 - [INFO] - json_services.py[113]: json订单数据写入到mysql完成
+2022-09-22 15:19:18,416 - [INFO] - json_services.py[99]: 完成了CSV备份文件的写出，写出到了：../output_csv/orders_and_detail_csv/
+2022-09-22 15:19:19,574 - [INFO] - json_services.py[113]: json订单数据写入到mysql完成
+2022-09-22 15:19:19,656 - [INFO] - json_services.py[99]: 完成了CSV备份文件的写出，写出到了：../output_csv/orders_and_detail_csv/
+2022-09-22 15:19:20,726 - [INFO] - json_services.py[113]: json订单数据写入到mysql完成
+2022-09-22 15:19:20,812 - [INFO] - json_services.py[99]: 完成了CSV备份文件的写出，写出到了：../output_csv/orders_and_detail_csv/
+2022-09-22 15:19:21,860 - [INFO] - json_services.py[113]: json订单数据写入到mysql完成
+2022-09-22 15:19:21,944 - [INFO] - json_services.py[99]: 完成了CSV备份文件的写出，写出到了：../output_csv/orders_and_detail_csv/
+2022-09-22 15:19:23,049 - [INFO] - json_services.py[113]: json订单数据写入到mysql完成
+2022-09-22 15:19:23,127 - [INFO] - json_services.py[99]: 完成了CSV备份文件的写出，写出到了：../output_csv/orders_and_detail_csv/
+2022-09-22 15:19:24,221 - [INFO] - json_services.py[113]: json订单数据写入到mysql完成
+2022-09-22 15:19:24,300 - [INFO] - json_services.py[99]: 完成了CSV备份文件的写出，写出到了：../output_csv/orders_and_detail_csv/
+2022-09-22 15:19:25,393 - [INFO] - json_services.py[113]: json订单数据写入到mysql完成
+2022-09-22 15:19:25,394 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: insert into file_monitor(file_name,process_lines)values ('../data/x00','1024')
+2022-09-22 15:19:25,395 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: insert into file_monitor(file_name,process_lines)values ('../data/x01','1024')
+2022-09-22 15:19:25,405 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: insert into file_monitor(file_name,process_lines)values ('../data/x02','1024')
+2022-09-22 15:19:25,406 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: insert into file_monitor(file_name,process_lines)values ('../data/x03','1024')
+2022-09-22 15:19:25,407 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: insert into file_monitor(file_name,process_lines)values ('../data/x04','1024')
+2022-09-22 15:19:25,408 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: insert into file_monitor(file_name,process_lines)values ('../data/x05','1024')
+2022-09-22 15:19:25,409 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: insert into file_monitor(file_name,process_lines)values ('../data/x06','1024')
+2022-09-22 15:19:25,410 - [INFO] - json_services.py[127]: 读取JSON数据向MySQL插入以及写出CSV备份，程序执行完成......
+2022-09-22 15:21:59,068 - [INFO] - log_services.py[12]: 获取到日志文件列表为:['../logs/backend_logs/2022-09-16-14-53-55.log', '../logs/backend_logs/2022-09-16-14-53-56.log', '../logs/backend_logs/2022-09-16-14-53-57.log', '../logs/backend_logs/2022-09-16-14-53-58.log', '../logs/backend_logs/2022-09-16-14-53-59.log', '../logs/backend_logs/2022-09-16-17-15-50.log', '../logs/backend_logs/2022-09-16-17-15-51.log', '../logs/backend_logs/2022-09-16-17-15-52.log', '../logs/backend_logs/2022-09-16-17-15-53.log', '../logs/backend_logs/2022-09-16-17-15-54.log']
+2022-09-22 15:21:59,099 - [INFO] - mysql_util.py[31]: 构建完成到192.168.88.100:3306的数据库连接...
+2022-09-22 15:21:59,099 - [INFO] - mysql_util.py[63]: 执行了语句:show tables,查询的结果有2条
+2022-09-22 15:21:59,099 - [INFO] - mysql_util.py[125]: 数据库:metadata中,表backend_logs_monitor已经存在,创建表的操作跳过。
+2022-09-22 15:21:59,100 - [INFO] - mysql_util.py[63]: 执行了语句:select file_name from backend_logs_monitor,查询的结果有0条
+2022-09-22 15:21:59,100 - [INFO] - log_services.py[23]: 已经处理的文件有[]
+2022-09-22 15:21:59,100 - [INFO] - log_services.py[27]: 需要被处理的文件有:['../logs/backend_logs/2022-09-16-14-53-55.log', '../logs/backend_logs/2022-09-16-14-53-56.log', '../logs/backend_logs/2022-09-16-14-53-57.log', '../logs/backend_logs/2022-09-16-14-53-58.log', '../logs/backend_logs/2022-09-16-14-53-59.log', '../logs/backend_logs/2022-09-16-17-15-50.log', '../logs/backend_logs/2022-09-16-17-15-51.log', '../logs/backend_logs/2022-09-16-17-15-52.log', '../logs/backend_logs/2022-09-16-17-15-53.log', '../logs/backend_logs/2022-09-16-17-15-54.log']
+2022-09-22 15:21:59,114 - [INFO] - mysql_util.py[31]: 构建完成到192.168.88.100:3306的数据库连接...
+2022-09-22 15:21:59,115 - [INFO] - mysql_util.py[63]: 执行了语句:show tables,查询的结果有3条
+2022-09-22 15:21:59,115 - [INFO] - mysql_util.py[125]: 数据库:retail中,表backend_logs已经存在,创建表的操作跳过。
+2022-09-22 15:42:57,268 - [INFO] - json_services.py[10]: json订单处理，程序开始执行.........
+2022-09-22 15:42:57,269 - [INFO] - json_services.py[14]: 获取到文件有['../data/x00', '../data/x01', '../data/x02', '../data/x03', '../data/x04', '../data/x05', '../data/x06']
+2022-09-22 15:42:57,287 - [INFO] - mysql_util.py[31]: 构建完成到192.168.88.100:3306的数据库连接...
+2022-09-22 15:42:57,288 - [INFO] - mysql_util.py[63]: 执行了语句:show tables,查询的结果有0条
+2022-09-22 15:42:57,294 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: create table file_monitor(
+    id INT PRIMARY KEY AUTO_INCREMENT, 
+    file_name VARCHAR(255) UNIQUE NOT NULL COMMENT '被处理的文件名称', 
+    process_lines INT COMMENT '本文件中有多少条数据被处理', 
+    process_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP COMMENT '处理时间'
+)
+2022-09-22 15:42:57,294 - [INFO] - mysql_util.py[123]: 在数据库:metadata中创建了表:file_monitor完成。建表语句是:create table file_monitor(
+    id INT PRIMARY KEY AUTO_INCREMENT, 
+    file_name VARCHAR(255) UNIQUE NOT NULL COMMENT '被处理的文件名称', 
+    process_lines INT COMMENT '本文件中有多少条数据被处理', 
+    process_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP COMMENT '处理时间'
+)
+2022-09-22 15:42:57,295 - [INFO] - mysql_util.py[63]: 执行了语句:select file_name from file_monitor,查询的结果有0条
+2022-09-22 15:42:57,295 - [INFO] - json_services.py[21]: 获取到的以及被处理的文件有:[]
+2022-09-22 15:42:57,295 - [INFO] - json_services.py[25]: 获取到的需要处理的文件有:['../data/x00', '../data/x01', '../data/x02', '../data/x03', '../data/x04', '../data/x05', '../data/x06']
+2022-09-22 15:42:57,307 - [INFO] - mysql_util.py[31]: 构建完成到192.168.88.100:3306的数据库连接...
+2022-09-22 15:42:57,308 - [INFO] - mysql_util.py[63]: 执行了语句:show tables,查询的结果有0条
+2022-09-22 15:42:57,314 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: create table orders(order_id VARCHAR(255) PRIMARY KEY, store_id INT COMMENT '店铺ID', store_name VARCHAR(30) COMMENT '店铺名称', store_status VARCHAR(10) COMMENT '店铺状态(open,close)', store_own_user_id INT COMMENT '店主id', store_own_user_name VARCHAR(50) COMMENT '店主名称', store_own_user_tel VARCHAR(15) COMMENT '店主手机号', store_category VARCHAR(10) COMMENT '店铺类型(normal,test)', store_address VARCHAR(255) COMMENT '店铺地址', store_shop_no VARCHAR(255) COMMENT '店铺第三方支付id号', store_province VARCHAR(10) COMMENT '店铺所在省', store_city VARCHAR(10) COMMENT '店铺所在市', store_district VARCHAR(10) COMMENT '店铺所在行政区', store_gps_name VARCHAR(255) COMMENT '店铺gps名称', store_gps_address VARCHAR(255) COMMENT '店铺gps地址', store_gps_longitude VARCHAR(255) COMMENT '店铺gps经度', store_gps_latitude VARCHAR(255) COMMENT '店铺gps纬度', is_signed TINYINT COMMENT '是否第三方支付签约(0,1)', operator VARCHAR(10) COMMENT '操作员', operator_name VARCHAR(50) COMMENT '操作员名称', face_id VARCHAR(255) COMMENT '顾客面部识别ID', member_id VARCHAR(255) COMMENT '顾客会员ID', store_create_date_ts TIMESTAMP COMMENT '店铺创建时间', origin VARCHAR(255) COMMENT '原始信息(无用)', day_order_seq INT COMMENT '本订单是当日第几单', discount_rate DECIMAL(10, 5) COMMENT '折扣率', discount_type TINYINT COMMENT '折扣类型', discount DECIMAL(10, 5) COMMENT '折扣金额', money_before_whole_discount DECIMAL(10, 5) COMMENT '折扣前总金额', receivable DECIMAL(10, 5) COMMENT '应收金额', erase DECIMAL(10, 5) COMMENT '抹零金额', small_change DECIMAL(10, 5) COMMENT '找零金额', total_no_discount DECIMAL(10, 5) COMMENT '总价格(无折扣)', pay_total DECIMAL(10, 5) COMMENT '付款金额', pay_type VARCHAR(10) COMMENT '付款类型', payment_channel TINYINT COMMENT '付款通道', payment_scenarios VARCHAR(15) COMMENT '付款描述(无用)', product_count INT COMMENT '本单卖出多少商品', date_ts datetime COMMENT '订单时间', INDEX (receivable), INDEX (date_ts))
+2022-09-22 15:42:57,314 - [INFO] - mysql_util.py[123]: 在数据库:retail中创建了表:orders完成。建表语句是:create table orders(order_id VARCHAR(255) PRIMARY KEY, store_id INT COMMENT '店铺ID', store_name VARCHAR(30) COMMENT '店铺名称', store_status VARCHAR(10) COMMENT '店铺状态(open,close)', store_own_user_id INT COMMENT '店主id', store_own_user_name VARCHAR(50) COMMENT '店主名称', store_own_user_tel VARCHAR(15) COMMENT '店主手机号', store_category VARCHAR(10) COMMENT '店铺类型(normal,test)', store_address VARCHAR(255) COMMENT '店铺地址', store_shop_no VARCHAR(255) COMMENT '店铺第三方支付id号', store_province VARCHAR(10) COMMENT '店铺所在省', store_city VARCHAR(10) COMMENT '店铺所在市', store_district VARCHAR(10) COMMENT '店铺所在行政区', store_gps_name VARCHAR(255) COMMENT '店铺gps名称', store_gps_address VARCHAR(255) COMMENT '店铺gps地址', store_gps_longitude VARCHAR(255) COMMENT '店铺gps经度', store_gps_latitude VARCHAR(255) COMMENT '店铺gps纬度', is_signed TINYINT COMMENT '是否第三方支付签约(0,1)', operator VARCHAR(10) COMMENT '操作员', operator_name VARCHAR(50) COMMENT '操作员名称', face_id VARCHAR(255) COMMENT '顾客面部识别ID', member_id VARCHAR(255) COMMENT '顾客会员ID', store_create_date_ts TIMESTAMP COMMENT '店铺创建时间', origin VARCHAR(255) COMMENT '原始信息(无用)', day_order_seq INT COMMENT '本订单是当日第几单', discount_rate DECIMAL(10, 5) COMMENT '折扣率', discount_type TINYINT COMMENT '折扣类型', discount DECIMAL(10, 5) COMMENT '折扣金额', money_before_whole_discount DECIMAL(10, 5) COMMENT '折扣前总金额', receivable DECIMAL(10, 5) COMMENT '应收金额', erase DECIMAL(10, 5) COMMENT '抹零金额', small_change DECIMAL(10, 5) COMMENT '找零金额', total_no_discount DECIMAL(10, 5) COMMENT '总价格(无折扣)', pay_total DECIMAL(10, 5) COMMENT '付款金额', pay_type VARCHAR(10) COMMENT '付款类型', payment_channel TINYINT COMMENT '付款通道', payment_scenarios VARCHAR(15) COMMENT '付款描述(无用)', product_count INT COMMENT '本单卖出多少商品', date_ts datetime COMMENT '订单时间', INDEX (receivable), INDEX (date_ts))
+2022-09-22 15:42:57,315 - [INFO] - mysql_util.py[63]: 执行了语句:show tables,查询的结果有1条
+2022-09-22 15:42:57,319 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: create table orders_detail(order_id VARCHAR(255) COMMENT '订单ID', barcode VARCHAR(255) COMMENT '商品条码', name VARCHAR(255) COMMENT '商品名称', count INT COMMENT '本单此商品卖出数量', price_per DECIMAL(10, 5) COMMENT '实际售卖单价', retail_price DECIMAL(10, 5) COMMENT '零售建议价', trade_price DECIMAL(10, 5) COMMENT '贸易价格(进货价)', category_id INT COMMENT '商品类别ID', unit_id INT COMMENT '商品单位ID(包、袋、箱、等)', PRIMARY KEY (order_id, barcode))
+2022-09-22 15:42:57,319 - [INFO] - mysql_util.py[123]: 在数据库:retail中创建了表:orders_detail完成。建表语句是:create table orders_detail(order_id VARCHAR(255) COMMENT '订单ID', barcode VARCHAR(255) COMMENT '商品条码', name VARCHAR(255) COMMENT '商品名称', count INT COMMENT '本单此商品卖出数量', price_per DECIMAL(10, 5) COMMENT '实际售卖单价', retail_price DECIMAL(10, 5) COMMENT '零售建议价', trade_price DECIMAL(10, 5) COMMENT '贸易价格(进货价)', category_id INT COMMENT '商品类别ID', unit_id INT COMMENT '商品单位ID(包、袋、箱、等)', PRIMARY KEY (order_id, barcode))
+2022-09-22 15:42:57,390 - [INFO] - json_services.py[99]: 完成了CSV备份文件的写出，写出到了：../output_csv/orders_and_detail_csv/
+2022-09-22 15:42:58,405 - [INFO] - json_services.py[113]: json订单数据写入到mysql完成
+2022-09-22 15:42:58,477 - [INFO] - json_services.py[99]: 完成了CSV备份文件的写出，写出到了：../output_csv/orders_and_detail_csv/
+2022-09-22 15:42:59,554 - [INFO] - json_services.py[113]: json订单数据写入到mysql完成
+2022-09-22 15:42:59,625 - [INFO] - json_services.py[99]: 完成了CSV备份文件的写出，写出到了：../output_csv/orders_and_detail_csv/
+2022-09-22 15:43:00,656 - [INFO] - json_services.py[113]: json订单数据写入到mysql完成
+2022-09-22 15:43:00,735 - [INFO] - json_services.py[99]: 完成了CSV备份文件的写出，写出到了：../output_csv/orders_and_detail_csv/
+2022-09-22 15:43:01,796 - [INFO] - json_services.py[113]: json订单数据写入到mysql完成
+2022-09-22 15:43:01,869 - [INFO] - json_services.py[99]: 完成了CSV备份文件的写出，写出到了：../output_csv/orders_and_detail_csv/
+2022-09-22 15:43:02,862 - [INFO] - json_services.py[113]: json订单数据写入到mysql完成
+2022-09-22 15:43:02,932 - [INFO] - json_services.py[99]: 完成了CSV备份文件的写出，写出到了：../output_csv/orders_and_detail_csv/
+2022-09-22 15:43:03,914 - [INFO] - json_services.py[113]: json订单数据写入到mysql完成
+2022-09-22 15:43:03,984 - [INFO] - json_services.py[99]: 完成了CSV备份文件的写出，写出到了：../output_csv/orders_and_detail_csv/
+2022-09-22 15:43:04,977 - [INFO] - json_services.py[113]: json订单数据写入到mysql完成
+2022-09-22 15:43:04,978 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: insert into file_monitor(file_name,process_lines)values ('../data/x00','1024')
+2022-09-22 15:43:04,979 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: insert into file_monitor(file_name,process_lines)values ('../data/x01','1024')
+2022-09-22 15:43:04,987 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: insert into file_monitor(file_name,process_lines)values ('../data/x02','1024')
+2022-09-22 15:43:04,995 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: insert into file_monitor(file_name,process_lines)values ('../data/x03','1024')
+2022-09-22 15:43:05,003 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: insert into file_monitor(file_name,process_lines)values ('../data/x04','1024')
+2022-09-22 15:43:05,004 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: insert into file_monitor(file_name,process_lines)values ('../data/x05','1024')
+2022-09-22 15:43:05,005 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: insert into file_monitor(file_name,process_lines)values ('../data/x06','1024')
+2022-09-22 15:43:05,006 - [INFO] - json_services.py[127]: 读取JSON数据向MySQL插入以及写出CSV备份，程序执行完成......
+2022-09-22 15:43:35,664 - [INFO] - log_services.py[12]: 获取到日志文件列表为:['../logs/backend_logs/2022-09-16-14-53-55.log', '../logs/backend_logs/2022-09-16-14-53-56.log', '../logs/backend_logs/2022-09-16-14-53-57.log', '../logs/backend_logs/2022-09-16-14-53-58.log', '../logs/backend_logs/2022-09-16-14-53-59.log', '../logs/backend_logs/2022-09-16-17-15-50.log', '../logs/backend_logs/2022-09-16-17-15-51.log', '../logs/backend_logs/2022-09-16-17-15-52.log', '../logs/backend_logs/2022-09-16-17-15-53.log', '../logs/backend_logs/2022-09-16-17-15-54.log']
+2022-09-22 15:43:35,673 - [INFO] - mysql_util.py[31]: 构建完成到192.168.88.100:3306的数据库连接...
+2022-09-22 15:43:35,673 - [INFO] - mysql_util.py[63]: 执行了语句:show tables,查询的结果有1条
+2022-09-22 15:43:35,678 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: create table backend_logs_monitor(
+    id INT PRIMARY KEY AUTO_INCREMENT, 
+    file_name VARCHAR(255) UNIQUE NOT NULL COMMENT '被处理的文件名称', 
+    process_lines INT COMMENT '本文件中有多少条数据被处理', 
+    process_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP COMMENT '处理时间'
+)
+2022-09-22 15:43:35,678 - [INFO] - mysql_util.py[123]: 在数据库:metadata中创建了表:backend_logs_monitor完成。建表语句是:create table backend_logs_monitor(
+    id INT PRIMARY KEY AUTO_INCREMENT, 
+    file_name VARCHAR(255) UNIQUE NOT NULL COMMENT '被处理的文件名称', 
+    process_lines INT COMMENT '本文件中有多少条数据被处理', 
+    process_time TIMESTAMP DEFAULT CURRENT_TIMESTAMP COMMENT '处理时间'
+)
+2022-09-22 15:43:35,679 - [INFO] - mysql_util.py[63]: 执行了语句:select file_name from backend_logs_monitor,查询的结果有0条
+2022-09-22 15:43:35,679 - [INFO] - log_services.py[23]: 已经处理的文件有[]
+2022-09-22 15:43:35,679 - [INFO] - log_services.py[27]: 需要被处理的文件有:['../logs/backend_logs/2022-09-16-14-53-55.log', '../logs/backend_logs/2022-09-16-14-53-56.log', '../logs/backend_logs/2022-09-16-14-53-57.log', '../logs/backend_logs/2022-09-16-14-53-58.log', '../logs/backend_logs/2022-09-16-14-53-59.log', '../logs/backend_logs/2022-09-16-17-15-50.log', '../logs/backend_logs/2022-09-16-17-15-51.log', '../logs/backend_logs/2022-09-16-17-15-52.log', '../logs/backend_logs/2022-09-16-17-15-53.log', '../logs/backend_logs/2022-09-16-17-15-54.log']
+2022-09-22 15:43:35,682 - [INFO] - mysql_util.py[31]: 构建完成到192.168.88.100:3306的数据库连接...
+2022-09-22 15:43:35,683 - [INFO] - mysql_util.py[63]: 执行了语句:show tables,查询的结果有2条
+2022-09-22 15:43:35,688 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: create table backend_logs(id int PRIMARY KEY AUTO_INCREMENT COMMENT '自增ID', log_time TIMESTAMP(6) COMMENT '日志时间,精确到6位毫秒值', log_level VARCHAR(10) COMMENT '日志级别', log_module VARCHAR(50) COMMENT '输出日志的功能模块名', response_time INT COMMENT '接口响应时间毫秒', province VARCHAR(30) COMMENT '访问者省份', city VARCHAR(30) COMMENT '访问者城市', log_text VARCHAR(255) COMMENT '日志正文', INDEX(log_time))
+2022-09-22 15:43:35,688 - [INFO] - mysql_util.py[123]: 在数据库:retail中创建了表:backend_logs完成。建表语句是:create table backend_logs(id int PRIMARY KEY AUTO_INCREMENT COMMENT '自增ID', log_time TIMESTAMP(6) COMMENT '日志时间,精确到6位毫秒值', log_level VARCHAR(10) COMMENT '日志级别', log_module VARCHAR(50) COMMENT '输出日志的功能模块名', response_time INT COMMENT '接口响应时间毫秒', province VARCHAR(30) COMMENT '访问者省份', city VARCHAR(30) COMMENT '访问者城市', log_text VARCHAR(255) COMMENT '日志正文', INDEX(log_time))
+2022-09-22 15:43:36,178 - [INFO] - log_services.py[79]: 日志数据写入到mysql完成
+2022-09-22 15:43:36,680 - [INFO] - log_services.py[79]: 日志数据写入到mysql完成
+2022-09-22 15:43:37,165 - [INFO] - log_services.py[79]: 日志数据写入到mysql完成
+2022-09-22 15:43:37,659 - [INFO] - log_services.py[79]: 日志数据写入到mysql完成
+2022-09-22 15:43:38,162 - [INFO] - log_services.py[79]: 日志数据写入到mysql完成
+2022-09-22 15:43:38,620 - [INFO] - log_services.py[79]: 日志数据写入到mysql完成
+2022-09-22 15:43:39,075 - [INFO] - log_services.py[79]: 日志数据写入到mysql完成
+2022-09-22 15:43:39,520 - [INFO] - log_services.py[79]: 日志数据写入到mysql完成
+2022-09-22 15:43:39,982 - [INFO] - log_services.py[79]: 日志数据写入到mysql完成
+2022-09-22 15:43:40,447 - [INFO] - log_services.py[79]: 日志数据写入到mysql完成
+2022-09-22 15:43:40,448 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: insert into backend_logs_monitor (file_name,process_lines)values ('../logs/backend_logs/2022-09-16-14-53-55.log','1024')
+2022-09-22 15:43:40,449 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: insert into backend_logs_monitor (file_name,process_lines)values ('../logs/backend_logs/2022-09-16-14-53-56.log','1024')
+2022-09-22 15:43:40,449 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: insert into backend_logs_monitor (file_name,process_lines)values ('../logs/backend_logs/2022-09-16-14-53-57.log','1024')
+2022-09-22 15:43:40,457 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: insert into backend_logs_monitor (file_name,process_lines)values ('../logs/backend_logs/2022-09-16-14-53-58.log','1024')
+2022-09-22 15:43:40,465 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: insert into backend_logs_monitor (file_name,process_lines)values ('../logs/backend_logs/2022-09-16-14-53-59.log','1024')
+2022-09-22 15:43:40,471 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: insert into backend_logs_monitor (file_name,process_lines)values ('../logs/backend_logs/2022-09-16-17-15-50.log','1024')
+2022-09-22 15:43:40,472 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: insert into backend_logs_monitor (file_name,process_lines)values ('../logs/backend_logs/2022-09-16-17-15-51.log','1024')
+2022-09-22 15:43:40,474 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: insert into backend_logs_monitor (file_name,process_lines)values ('../logs/backend_logs/2022-09-16-17-15-52.log','1024')
+2022-09-22 15:43:40,475 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: insert into backend_logs_monitor (file_name,process_lines)values ('../logs/backend_logs/2022-09-16-17-15-53.log','1024')
+2022-09-22 15:43:40,476 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: insert into backend_logs_monitor (file_name,process_lines)values ('../logs/backend_logs/2022-09-16-17-15-54.log','1024')
+2022-09-22 15:43:40,477 - [INFO] - log_services.py[89]: 已经处理的文件已经保存到数据库中.....
+2022-09-22 15:43:40,477 - [INFO] - log_services.py[95]: 读取日志数据向MySQL插入以及写出CSV备份，程序执行完成......
+2022-09-22 15:43:46,583 - [INFO] - mysql_services.py[10]: mysql表数据处理开始
+2022-09-22 15:43:46,600 - [INFO] - mysql_util.py[31]: 构建完成到192.168.88.100:3306的数据库连接...
+2022-09-22 15:43:46,612 - [INFO] - mysql_util.py[31]: 构建完成到192.168.88.100:3306的数据库连接...
+2022-09-22 15:43:46,626 - [INFO] - mysql_util.py[31]: 构建完成到192.168.88.100:3306的数据库连接...
+2022-09-22 15:43:46,627 - [INFO] - mysql_util.py[63]: 执行了语句:show tables,查询的结果有0条
+2022-09-22 15:43:46,627 - [INFO] - mysql_services.py[37]: 数据库:source_data中的表sys_barcode不存在，无需处理，程序结束
+2022-09-22 15:43:50,890 - [INFO] - mysql_services.py[10]: mysql表数据处理开始
+2022-09-22 15:43:50,918 - [INFO] - mysql_util.py[31]: 构建完成到192.168.88.100:3306的数据库连接...
+2022-09-22 15:43:50,933 - [INFO] - mysql_util.py[31]: 构建完成到192.168.88.100:3306的数据库连接...
+2022-09-22 15:43:50,948 - [INFO] - mysql_util.py[31]: 构建完成到192.168.88.100:3306的数据库连接...
+2022-09-22 15:43:50,949 - [INFO] - mysql_util.py[63]: 执行了语句:show tables,查询的结果有0条
+2022-09-22 15:43:50,949 - [INFO] - mysql_services.py[37]: 数据库:source_data中的表sys_barcode不存在，无需处理，程序结束
+2022-09-22 15:47:45,453 - [INFO] - mysql_services.py[10]: mysql表数据处理开始
+2022-09-22 15:47:45,459 - [INFO] - mysql_util.py[31]: 构建完成到192.168.88.100:3306的数据库连接...
+2022-09-22 15:47:45,471 - [INFO] - mysql_util.py[31]: 构建完成到192.168.88.100:3306的数据库连接...
+2022-09-22 15:47:45,481 - [INFO] - mysql_util.py[31]: 构建完成到192.168.88.100:3306的数据库连接...
+2022-09-22 15:47:45,483 - [INFO] - mysql_util.py[63]: 执行了语句:show tables,查询的结果有1条
+2022-09-22 15:47:45,483 - [INFO] - mysql_util.py[63]: 执行了语句:show tables,查询的结果有3条
+2022-09-22 15:47:45,487 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: create table barcode(
+    `code` varchar(50) PRIMARY KEY COMMENT '商品条码',
+    `name` varchar(200) DEFAULT '' COMMENT '商品名称',
+    `spec` varchar(200) DEFAULT '' COMMENT '商品规格',
+    `trademark` varchar(100) DEFAULT '' COMMENT '商品商标',
+    `addr` varchar(200) DEFAULT '' COMMENT '商品产地',
+    `units` varchar(50) DEFAULT '' COMMENT '商品单位(个、杯、箱、等)',
+    `factory_name` varchar(200) DEFAULT '' COMMENT '生产厂家',
+    `trade_price` DECIMAL(50, 5) DEFAULT 0.0 COMMENT '贸易价格(指导进价)',
+    `retail_price` DECIMAL(50, 5) DEFAULT 0.0 COMMENT '零售价格(建议卖价)',
+    `update_at` timestamp NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP COMMENT '更新时间',
+    `wholeunit` varchar(50) DEFAULT NULL COMMENT '大包装单位',
+    `wholenum` int(11) DEFAULT NULL COMMENT '大包装内装数量',
+    `img` varchar(500) DEFAULT NULL COMMENT '商品图片',
+    `src` varchar(20) DEFAULT NULL COMMENT '源信息', 
+    INDEX (update_at)
+)
+2022-09-22 15:47:45,487 - [INFO] - mysql_util.py[123]: 在数据库:retail中创建了表:barcode完成。建表语句是:create table barcode(
+    `code` varchar(50) PRIMARY KEY COMMENT '商品条码',
+    `name` varchar(200) DEFAULT '' COMMENT '商品名称',
+    `spec` varchar(200) DEFAULT '' COMMENT '商品规格',
+    `trademark` varchar(100) DEFAULT '' COMMENT '商品商标',
+    `addr` varchar(200) DEFAULT '' COMMENT '商品产地',
+    `units` varchar(50) DEFAULT '' COMMENT '商品单位(个、杯、箱、等)',
+    `factory_name` varchar(200) DEFAULT '' COMMENT '生产厂家',
+    `trade_price` DECIMAL(50, 5) DEFAULT 0.0 COMMENT '贸易价格(指导进价)',
+    `retail_price` DECIMAL(50, 5) DEFAULT 0.0 COMMENT '零售价格(建议卖价)',
+    `update_at` timestamp NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP COMMENT '更新时间',
+    `wholeunit` varchar(50) DEFAULT NULL COMMENT '大包装单位',
+    `wholenum` int(11) DEFAULT NULL COMMENT '大包装内装数量',
+    `img` varchar(500) DEFAULT NULL COMMENT '商品图片',
+    `src` varchar(20) DEFAULT NULL COMMENT '源信息', 
+    INDEX (update_at)
+)
+2022-09-22 15:47:45,488 - [INFO] - mysql_util.py[63]: 执行了语句:show tables,查询的结果有2条
+2022-09-22 15:47:45,494 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: create table barcode_monitor(id INT PRIMARY KEY AUTO_INCREMENT COMMENT '自增ID', time_record TIMESTAMP NOT NULL COMMENT '本次采集记录的最大时间', gather_line_count INT NULL COMMENT '本次采集条数')
+2022-09-22 15:47:45,494 - [INFO] - mysql_util.py[123]: 在数据库:metadata中创建了表:barcode_monitor完成。建表语句是:create table barcode_monitor(id INT PRIMARY KEY AUTO_INCREMENT COMMENT '自增ID', time_record TIMESTAMP NOT NULL COMMENT '本次采集记录的最大时间', gather_line_count INT NULL COMMENT '本次采集条数')
+2022-09-22 15:47:45,495 - [INFO] - mysql_util.py[63]: 执行了语句:select time_record from barcode_monitor order by time_record desc limit 1,查询的结果有0条
+2022-09-22 15:47:45,529 - [INFO] - mysql_util.py[63]: 执行了语句:select * from sys_barcode where updateAt > '2000-01-01 00:00:00' order by  updateAt desc,查询的结果有1371条
+2022-09-22 15:47:45,979 - [INFO] - mysql_services.py[117]: 从数据源：source_data库，读取表：sys_barcode，当前写入目标表：barcode数据有:1000行
+2022-09-22 15:47:46,180 - [INFO] - mysql_services.py[138]: 从数据源：source_data库中，读取表：sys_barcode,将数据写入到文件: ../output_csv/barcode_csv/ + barcode-20220922-154745.csv 文件中，写入数据 1371 条数据.....
+2022-09-22 15:47:46,180 - [INFO] - mysql_util.py[75]: 执行了一条sql语句: insert into barcode_monitor(time_record,gather_line_count)values('2017-07-10 19:09:09', 1371)
+2022-09-22 15:47:46,181 - [INFO] - mysql_services.py[152]: 数据源数据处理完毕.......

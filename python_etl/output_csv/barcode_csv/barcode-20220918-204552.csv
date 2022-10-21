@@ -1,0 +1,1372 @@
+﻿666,小碗熊,,,,,,0.0000,0.0000,2022-09-18 12:07:12,None,None,None,None
+1,大米,,默认,,默认,,1,10,2017-07-10 19:09:09,None,None,None,None
+2,虾米,,默认,,默认,,1,12,2017-07-10 19:09:09,None,None,None,None
+3,未知商品,,默认,,默认,,1,6,2017-07-10 19:09:09,None,None,None,None
+4,手纸,,默认,,默认,,1,1,2017-07-10 19:09:09,None,None,None,None
+5,火腿肠,,默认,,默认,,1,5,2017-07-10 19:09:09,None,None,None,None
+10,十,,默认,,默认,,1,10,2017-07-10 19:09:09,None,None,None,None
+11,茶叶蛋,,默认,,默认,,1,1.5,2017-07-10 19:09:09,None,None,None,None
+12,小鹏,,默认,,默认,,1,4,2017-07-10 19:09:09,None,None,None,None
+13,酱肉包,,默认,,默认,,1,3.5,2017-07-10 19:09:09,None,None,None,None
+14,白菜肉包,,默认,,默认,,1,2.5,2017-07-10 19:09:09,None,None,None,None
+15,豆沙包,,默认,,默认,,1,2,2017-07-10 19:09:09,None,None,None,None
+16,原味豆浆,,默认,,默认,,1,3,2017-07-10 19:09:09,None,None,None,None
+17,豆浆,,默认,,默认,,1,4,2017-07-10 19:09:09,None,None,None,None
+18,无条码商品,,默认,,默认,,1,18,2017-07-10 19:09:09,None,None,None,None
+19,瓜子,,默认,,默认,,1,5,2017-07-10 19:09:09,None,None,None,None
+120,无条码商品,,,,默认,,1,10,2017-07-10 19:09:09,None,None,None,None
+121,1,,默认,,默认,,1,8,2017-07-10 19:09:09,None,None,None,None
+123,缠绕膜,,默认,,默认,,1,0,2017-07-10 19:09:09,None,None,None,None
+1201,lc1201,,爱鲜蜂,,,,1,2,2017-07-10 19:09:09,None,None,None,None
+1202,lc1202,,爱鲜蜂,,,,1,30,2017-07-10 19:09:09,None,None,None,None
+1203,lc1203,,默认,,默认,,1,12,2017-07-10 19:09:09,None,None,None,None
+1204,lc1204,,默认,,默认,,1,76.46,2017-07-10 19:09:09,None,None,None,None
+1258,cs,,爱鲜蜂,,,,1,60,2017-07-10 19:09:09,None,None,None,None
+1401,lc1401,,爱鲜蜂,,,,1,3,2017-07-10 19:09:09,None,None,None,None
+1403,lc1403,,爱鲜蜂,,,,1,2.6,2017-07-10 19:09:09,None,None,None,None
+1404,lc1404,,默认,,默认,,1,3.87,2017-07-10 19:09:09,None,None,None,None
+1405,lc1405,,默认,,默认,,1,78,2017-07-10 19:09:09,None,None,None,None
+2112,未知商品7421,,默认,,默认,,1,2,2017-07-10 19:09:09,None,None,None,None
+2113,2113是,,爱鲜蜂,,默认,,1,10,2017-07-10 19:09:09,None,None,None,None
+2114,未知商品2114,,默认,,默认,,1,8,2017-07-10 19:09:09,None,None,None,None
+2118,2118是,,爱鲜蜂,,,,1,10,2017-07-10 19:09:09,None,None,None,None
+2520,huge,,,,,,1,25,2017-07-10 19:09:09,None,None,None,None
+12580,cs,,,,,,1,2,2017-07-10 19:09:09,None,None,None,None
+22019,测试,,默认,,默认,,1,10,2017-07-10 19:09:09,None,None,None,None
+33001,lb033001,,默认,,默认,,1,50,2017-07-10 19:09:09,None,None,None,None
+33002,lb033002,,默认,,默认,,1,80,2017-07-10 19:09:09,None,None,None,None
+36908,测试,,爱鲜蜂,,,,1,9,2017-07-10 19:09:09,None,None,None,None
+36980,测试,,爱鲜蜂,,,,1,70,2017-07-10 19:09:09,None,None,None,None
+50702,test02,,默认,,默认,,1,7,2017-07-10 19:09:09,None,None,None,None
+50703,test03,,默认,,默认,,1,8,2017-07-10 19:09:09,None,None,None,None
+50704,test04,,默认,,默认,,1,9,2017-07-10 19:09:09,None,None,None,None
+50705,test05,,默认,,默认,,1,10,2017-07-10 19:09:09,None,None,None,None
+50706,test06,,默认,,默认,,1,11,2017-07-10 19:09:09,None,None,None,None
+50707,test07,,默认,,默认,,1,12,2017-07-10 19:09:09,None,None,None,None
+50708,test08,,默认,,默认,,1,13,2017-07-10 19:09:09,None,None,None,None
+50709,test09,,默认,,默认,,1,14,2017-07-10 19:09:09,None,None,None,None
+50710,test10,,默认,,默认,,1,15,2017-07-10 19:09:09,None,None,None,None
+50711,test11,,默认,,默认,,1,16,2017-07-10 19:09:09,None,None,None,None
+50712,test12,,默认,,默认,,1,17,2017-07-10 19:09:09,None,None,None,None
+50713,test13,,默认,,默认,,1,18,2017-07-10 19:09:09,None,None,None,None
+50714,test14,,默认,,默认,,1,19,2017-07-10 19:09:09,None,None,None,None
+50715,test15,,默认,,默认,,1,20,2017-07-10 19:09:09,None,None,None,None
+50716,test16,,默认,,默认,,1,21,2017-07-10 19:09:09,None,None,None,None
+50717,test17,,默认,,默认,,1,22,2017-07-10 19:09:09,None,None,None,None
+50718,test18,,默认,,默认,,1,23,2017-07-10 19:09:09,None,None,None,None
+50719,test19,,默认,,默认,,1,24,2017-07-10 19:09:09,None,None,None,None
+50720,test20,,默认,,默认,,1,25,2017-07-10 19:09:09,None,None,None,None
+50721,test21,,默认,,默认,,1,26,2017-07-10 19:09:09,None,None,None,None
+50722,test22,,默认,,默认,,1,27,2017-07-10 19:09:09,None,None,None,None
+50723,test23,,默认,,默认,,1,28,2017-07-10 19:09:09,None,None,None,None
+50724,test24,,默认,,默认,,1,29,2017-07-10 19:09:09,None,None,None,None
+50725,test25,,默认,,默认,,1,30,2017-07-10 19:09:09,None,None,None,None
+50726,test26,,默认,,默认,,1,31,2017-07-10 19:09:09,None,None,None,None
+50727,test27,,默认,,默认,,1,32,2017-07-10 19:09:09,None,None,None,None
+50728,test28,,默认,,默认,,1,33,2017-07-10 19:09:09,None,None,None,None
+50729,test29,,默认,,默认,,1,34,2017-07-10 19:09:09,None,None,None,None
+50730,test30,,默认,,默认,,1,35,2017-07-10 19:09:09,None,None,None,None
+50731,test31,,默认,,默认,,1,36,2017-07-10 19:09:09,None,None,None,None
+50732,test32,,默认,,默认,,1,37,2017-07-10 19:09:09,None,None,None,None
+50733,test33,,默认,,默认,,1,38,2017-07-10 19:09:09,None,None,None,None
+50734,test34,,默认,,默认,,1,39,2017-07-10 19:09:09,None,None,None,None
+50735,test35,,默认,,默认,,1,40,2017-07-10 19:09:09,None,None,None,None
+50736,test36,,默认,,默认,,1,41,2017-07-10 19:09:09,None,None,None,None
+50737,test37,,默认,,默认,,1,42,2017-07-10 19:09:09,None,None,None,None
+50738,test38,,默认,,默认,,1,43,2017-07-10 19:09:09,None,None,None,None
+50739,test39,,默认,,默认,,1,44,2017-07-10 19:09:09,None,None,None,None
+50740,test40,,默认,,默认,,1,45,2017-07-10 19:09:09,None,None,None,None
+50741,test41,,默认,,默认,,1,46,2017-07-10 19:09:09,None,None,None,None
+50742,test42,,默认,,默认,,1,47,2017-07-10 19:09:09,None,None,None,None
+50743,test43,,默认,,默认,,1,48,2017-07-10 19:09:09,None,None,None,None
+50744,test44,,默认,,默认,,1,49,2017-07-10 19:09:09,None,None,None,None
+50745,test45,,默认,,默认,,1,50,2017-07-10 19:09:09,None,None,None,None
+50746,test46,,默认,,默认,,1,51,2017-07-10 19:09:09,None,None,None,None
+50747,test47,,默认,,默认,,1,52,2017-07-10 19:09:09,None,None,None,None
+50748,test48,,默认,,默认,,1,53,2017-07-10 19:09:09,None,None,None,None
+50749,test49,,默认,,默认,,1,54,2017-07-10 19:09:09,None,None,None,None
+50750,test50,,默认,,默认,,1,55,2017-07-10 19:09:09,None,None,None,None
+50751,test51,,默认,,默认,,1,56,2017-07-10 19:09:09,None,None,None,None
+50752,test52,,默认,,默认,,1,57,2017-07-10 19:09:09,None,None,None,None
+50753,test53,,默认,,默认,,1,58,2017-07-10 19:09:09,None,None,None,None
+50754,test54,,默认,,默认,,1,59,2017-07-10 19:09:09,None,None,None,None
+50755,test55,,默认,,默认,,1,60,2017-07-10 19:09:09,None,None,None,None
+50756,test56,,默认,,默认,,1,61,2017-07-10 19:09:09,None,None,None,None
+50757,test57,,默认,,默认,,1,62,2017-07-10 19:09:09,None,None,None,None
+50758,test58,,默认,,默认,,1,63,2017-07-10 19:09:09,None,None,None,None
+50759,test59,,默认,,默认,,1,64,2017-07-10 19:09:09,None,None,None,None
+50760,test60,,默认,,默认,,1,65,2017-07-10 19:09:09,None,None,None,None
+50761,test61,,默认,,默认,,1,66,2017-07-10 19:09:09,None,None,None,None
+50762,test62,,默认,,默认,,1,67,2017-07-10 19:09:09,None,None,None,None
+50763,test63,,默认,,默认,,1,68,2017-07-10 19:09:09,None,None,None,None
+50764,test64,,默认,,默认,,1,69,2017-07-10 19:09:09,None,None,None,None
+50765,test65,,默认,,默认,,1,70,2017-07-10 19:09:09,None,None,None,None
+50766,test66,,默认,,默认,,1,71,2017-07-10 19:09:09,None,None,None,None
+50767,test67,,默认,,默认,,1,72,2017-07-10 19:09:09,None,None,None,None
+50768,test68,,默认,,默认,,1,73,2017-07-10 19:09:09,None,None,None,None
+50769,test69,,默认,,默认,,1,74,2017-07-10 19:09:09,None,None,None,None
+50770,test70,,默认,,默认,,1,75,2017-07-10 19:09:09,None,None,None,None
+50771,test71,,默认,,默认,,1,76,2017-07-10 19:09:09,None,None,None,None
+50772,test72,,默认,,默认,,1,77,2017-07-10 19:09:09,None,None,None,None
+50773,test73,,默认,,默认,,1,78,2017-07-10 19:09:09,None,None,None,None
+50774,test74,,默认,,默认,,1,79,2017-07-10 19:09:09,None,None,None,None
+50775,test75,,默认,,默认,,1,80,2017-07-10 19:09:09,None,None,None,None
+50776,test76,,默认,,默认,,1,81,2017-07-10 19:09:09,None,None,None,None
+50777,test77,,默认,,默认,,1,82,2017-07-10 19:09:09,None,None,None,None
+50778,test78,,默认,,默认,,1,83,2017-07-10 19:09:09,None,None,None,None
+50779,test79,,默认,,默认,,1,84,2017-07-10 19:09:09,None,None,None,None
+50780,test80,,默认,,默认,,1,85,2017-07-10 19:09:09,None,None,None,None
+50781,test81,,默认,,默认,,1,86,2017-07-10 19:09:09,None,None,None,None
+50782,test82,,默认,,默认,,1,87,2017-07-10 19:09:09,None,None,None,None
+50783,test83,,默认,,默认,,1,88,2017-07-10 19:09:09,None,None,None,None
+50784,test84,,默认,,默认,,1,89,2017-07-10 19:09:09,None,None,None,None
+50785,test85,,默认,,默认,,1,90,2017-07-10 19:09:09,None,None,None,None
+50786,test86,,默认,,默认,,1,91,2017-07-10 19:09:09,None,None,None,None
+50787,test87,,默认,,默认,,1,92,2017-07-10 19:09:09,None,None,None,None
+50788,test88,,默认,,默认,,1,93,2017-07-10 19:09:09,None,None,None,None
+50789,test89,,默认,,默认,,1,94,2017-07-10 19:09:09,None,None,None,None
+50790,test90,,默认,,默认,,1,95,2017-07-10 19:09:09,None,None,None,None
+50791,test91,,默认,,默认,,1,96,2017-07-10 19:09:09,None,None,None,None
+50792,test92,,默认,,默认,,1,97,2017-07-10 19:09:09,None,None,None,None
+50793,test93,,默认,,默认,,1,98,2017-07-10 19:09:09,None,None,None,None
+50794,test94,,默认,,默认,,1,99,2017-07-10 19:09:09,None,None,None,None
+50795,test95,,默认,,默认,,1,100,2017-07-10 19:09:09,None,None,None,None
+50796,test96,,默认,,默认,,1,101,2017-07-10 19:09:09,None,None,None,None
+50797,test97,,默认,,默认,,1,102,2017-07-10 19:09:09,None,None,None,None
+50798,test98,,默认,,默认,,1,103,2017-07-10 19:09:09,None,None,None,None
+50799,test99,,默认,,默认,,1,104,2017-07-10 19:09:09,None,None,None,None
+50800,test100,,默认,,默认,,1,105,2017-07-10 19:09:09,None,None,None,None
+50801,test101,,默认,,默认,,1,106,2017-07-10 19:09:09,None,None,None,None
+50802,test102,,默认,,默认,,1,107,2017-07-10 19:09:09,None,None,None,None
+50803,test103,,默认,,默认,,1,108,2017-07-10 19:09:09,None,None,None,None
+50804,test104,,默认,,默认,,1,109,2017-07-10 19:09:09,None,None,None,None
+50805,test105,,默认,,默认,,1,110,2017-07-10 19:09:09,None,None,None,None
+50806,test106,,默认,,默认,,1,111,2017-07-10 19:09:09,None,None,None,None
+50807,test107,,默认,,默认,,1,112,2017-07-10 19:09:09,None,None,None,None
+50808,test108,,默认,,默认,,1,113,2017-07-10 19:09:09,None,None,None,None
+50809,test109,,,,,,1,114,2017-07-10 19:09:09,None,None,None,None
+50810,test110,,,,,,1,115,2017-07-10 19:09:09,None,None,None,None
+50811,test111,,,,,,1,116,2017-07-10 19:09:09,None,None,None,None
+50812,test112,,,,,,1,117,2017-07-10 19:09:09,None,None,None,None
+50813,test113,,,,,,1,118,2017-07-10 19:09:09,None,None,None,None
+50814,test114,,,,,,1,119,2017-07-10 19:09:09,None,None,None,None
+50815,test115,,,,,,1,120,2017-07-10 19:09:09,None,None,None,None
+50816,test116,,,,,,1,121,2017-07-10 19:09:09,None,None,None,None
+50817,test117,,,,,,1,122,2017-07-10 19:09:09,None,None,None,None
+50818,test118,,,,,,1,123,2017-07-10 19:09:09,None,None,None,None
+50819,test119,,,,,,1,124,2017-07-10 19:09:09,None,None,None,None
+50820,test120,,,,,,1,125,2017-07-10 19:09:09,None,None,None,None
+50821,test121,,,,,,1,126,2017-07-10 19:09:09,None,None,None,None
+50822,test122,,,,,,1,127,2017-07-10 19:09:09,None,None,None,None
+50823,test123,,,,,,1,128,2017-07-10 19:09:09,None,None,None,None
+50824,test124,,,,,,1,129,2017-07-10 19:09:09,None,None,None,None
+50825,test125,,,,,,1,130,2017-07-10 19:09:09,None,None,None,None
+50826,test126,,,,,,1,131,2017-07-10 19:09:09,None,None,None,None
+50827,test127,,,,,,1,132,2017-07-10 19:09:09,None,None,None,None
+50828,test128,,,,,,1,133,2017-07-10 19:09:09,None,None,None,None
+50829,test129,,,,,,1,134,2017-07-10 19:09:09,None,None,None,None
+50830,test130,,,,,,1,135,2017-07-10 19:09:09,None,None,None,None
+50831,test131,,,,,,1,136,2017-07-10 19:09:09,None,None,None,None
+50832,test132,,,,,,1,137,2017-07-10 19:09:09,None,None,None,None
+50833,test133,,,,,,1,138,2017-07-10 19:09:09,None,None,None,None
+50834,test134,,,,,,1,139,2017-07-10 19:09:09,None,None,None,None
+50835,test135,,,,,,1,140,2017-07-10 19:09:09,None,None,None,None
+50836,test136,,,,,,1,141,2017-07-10 19:09:09,None,None,None,None
+50837,test137,,,,,,1,142,2017-07-10 19:09:09,None,None,None,None
+50838,test138,,,,,,1,143,2017-07-10 19:09:09,None,None,None,None
+50839,test139,,,,,,1,144,2017-07-10 19:09:09,None,None,None,None
+50840,test140,,,,,,1,145,2017-07-10 19:09:09,None,None,None,None
+50841,test141,,,,,,1,146,2017-07-10 19:09:09,None,None,None,None
+50842,test142,,,,,,1,147,2017-07-10 19:09:09,None,None,None,None
+50843,test143,,,,,,1,148,2017-07-10 19:09:09,None,None,None,None
+50844,test144,,,,,,1,149,2017-07-10 19:09:09,None,None,None,None
+50845,test145,,,,,,1,150,2017-07-10 19:09:09,None,None,None,None
+50846,test146,,,,,,1,151,2017-07-10 19:09:09,None,None,None,None
+50847,test147,,,,,,1,152,2017-07-10 19:09:09,None,None,None,None
+50848,test148,,,,,,1,153,2017-07-10 19:09:09,None,None,None,None
+50849,test149,,,,,,1,154,2017-07-10 19:09:09,None,None,None,None
+50850,test150,,,,,,1,155,2017-07-10 19:09:09,None,None,None,None
+50851,test151,,,,,,1,156,2017-07-10 19:09:09,None,None,None,None
+50852,test152,,,,,,1,157,2017-07-10 19:09:09,None,None,None,None
+50853,test153,,,,,,1,158,2017-07-10 19:09:09,None,None,None,None
+50854,test154,,,,,,1,159,2017-07-10 19:09:09,None,None,None,None
+50855,test155,,,,,,1,160,2017-07-10 19:09:09,None,None,None,None
+50856,test156,,,,,,1,161,2017-07-10 19:09:09,None,None,None,None
+50857,test157,,,,,,1,162,2017-07-10 19:09:09,None,None,None,None
+50858,test158,,,,,,1,163,2017-07-10 19:09:09,None,None,None,None
+50859,test159,,,,,,1,164,2017-07-10 19:09:09,None,None,None,None
+50860,test160,,,,,,1,165,2017-07-10 19:09:09,None,None,None,None
+50861,test161,,,,,,1,166,2017-07-10 19:09:09,None,None,None,None
+50862,test162,,,,,,1,167,2017-07-10 19:09:09,None,None,None,None
+50863,test163,,,,,,1,168,2017-07-10 19:09:09,None,None,None,None
+50864,test164,,,,,,1,169,2017-07-10 19:09:09,None,None,None,None
+50865,test165,,,,,,1,170,2017-07-10 19:09:09,None,None,None,None
+50866,test166,,,,,,1,171,2017-07-10 19:09:09,None,None,None,None
+50867,test167,,,,,,1,172,2017-07-10 19:09:09,None,None,None,None
+50868,test168,,,,,,1,173,2017-07-10 19:09:09,None,None,None,None
+50869,test169,,,,,,1,174,2017-07-10 19:09:09,None,None,None,None
+50870,test170,,,,,,1,175,2017-07-10 19:09:09,None,None,None,None
+50871,test171,,,,,,1,176,2017-07-10 19:09:09,None,None,None,None
+50872,test172,,,,,,1,177,2017-07-10 19:09:09,None,None,None,None
+50873,test173,,,,,,1,178,2017-07-10 19:09:09,None,None,None,None
+50874,test174,,,,,,1,179,2017-07-10 19:09:09,None,None,None,None
+50875,test175,,,,,,1,180,2017-07-10 19:09:09,None,None,None,None
+50876,test176,,,,,,1,181,2017-07-10 19:09:09,None,None,None,None
+50877,test177,,,,,,1,182,2017-07-10 19:09:09,None,None,None,None
+50878,test178,,,,,,1,183,2017-07-10 19:09:09,None,None,None,None
+50879,test179,,,,,,1,184,2017-07-10 19:09:09,None,None,None,None
+50880,test180,,,,,,1,185,2017-07-10 19:09:09,None,None,None,None
+50881,test181,,,,,,1,186,2017-07-10 19:09:09,None,None,None,None
+50882,test182,,,,,,1,187,2017-07-10 19:09:09,None,None,None,None
+50883,test183,,,,,,1,188,2017-07-10 19:09:09,None,None,None,None
+50884,test184,,,,,,1,189,2017-07-10 19:09:09,None,None,None,None
+50885,test185,,,,,,1,190,2017-07-10 19:09:09,None,None,None,None
+50886,test186,,,,,,1,191,2017-07-10 19:09:09,None,None,None,None
+50887,test187,,,,,,1,192,2017-07-10 19:09:09,None,None,None,None
+50888,test188,,,,,,1,193,2017-07-10 19:09:09,None,None,None,None
+50889,test189,,,,,,1,194,2017-07-10 19:09:09,None,None,None,None
+50890,test190,,,,,,1,195,2017-07-10 19:09:09,None,None,None,None
+50891,test191,,,,,,1,196,2017-07-10 19:09:09,None,None,None,None
+50892,test192,,,,,,1,197,2017-07-10 19:09:09,None,None,None,None
+50893,test193,,,,,,1,198,2017-07-10 19:09:09,None,None,None,None
+50894,test194,,,,,,1,199,2017-07-10 19:09:09,None,None,None,None
+50895,test195,,,,,,1,200,2017-07-10 19:09:09,None,None,None,None
+50896,test196,,,,,,1,201,2017-07-10 19:09:09,None,None,None,None
+50897,test197,,,,,,1,202,2017-07-10 19:09:09,None,None,None,None
+50898,test198,,,,,,1,203,2017-07-10 19:09:09,None,None,None,None
+50899,test199,,,,,,1,204,2017-07-10 19:09:09,None,None,None,None
+50900,test200,,,,,,1,205,2017-07-10 19:09:09,None,None,None,None
+50901,test201,,,,,,1,206,2017-07-10 19:09:09,None,None,None,None
+50902,test202,,,,,,1,207,2017-07-10 19:09:09,None,None,None,None
+50903,test203,,,,,,1,208,2017-07-10 19:09:09,None,None,None,None
+50904,test204,,,,,,1,209,2017-07-10 19:09:09,None,None,None,None
+50905,test205,,,,,,1,210,2017-07-10 19:09:09,None,None,None,None
+50906,test206,,,,,,1,211,2017-07-10 19:09:09,None,None,None,None
+50907,test207,,,,,,1,212,2017-07-10 19:09:09,None,None,None,None
+50908,test208,,,,,,1,213,2017-07-10 19:09:09,None,None,None,None
+50909,test209,,,,,,1,214,2017-07-10 19:09:09,None,None,None,None
+50910,test210,,,,,,1,215,2017-07-10 19:09:09,None,None,None,None
+50911,test211,,,,,,1,216,2017-07-10 19:09:09,None,None,None,None
+50912,test212,,,,,,1,217,2017-07-10 19:09:09,None,None,None,None
+50913,test213,,,,,,1,218,2017-07-10 19:09:09,None,None,None,None
+50914,test214,,,,,,1,219,2017-07-10 19:09:09,None,None,None,None
+50915,test215,,,,,,1,220,2017-07-10 19:09:09,None,None,None,None
+50916,test216,,,,,,1,221,2017-07-10 19:09:09,None,None,None,None
+50917,test217,,,,,,1,222,2017-07-10 19:09:09,None,None,None,None
+50918,test218,,,,,,1,223,2017-07-10 19:09:09,None,None,None,None
+50919,test219,,,,,,1,224,2017-07-10 19:09:09,None,None,None,None
+50920,test220,,,,,,1,225,2017-07-10 19:09:09,None,None,None,None
+50921,test221,,,,,,1,226,2017-07-10 19:09:09,None,None,None,None
+50922,test222,,,,,,1,227,2017-07-10 19:09:09,None,None,None,None
+50923,test223,,,,,,1,228,2017-07-10 19:09:09,None,None,None,None
+50924,test224,,,,,,1,229,2017-07-10 19:09:09,None,None,None,None
+50925,test225,,,,,,1,230,2017-07-10 19:09:09,None,None,None,None
+50926,test226,,,,,,1,231,2017-07-10 19:09:09,None,None,None,None
+50927,test227,,,,,,1,232,2017-07-10 19:09:09,None,None,None,None
+50928,test228,,,,,,1,233,2017-07-10 19:09:09,None,None,None,None
+50929,test229,,,,,,1,234,2017-07-10 19:09:09,None,None,None,None
+50930,test230,,,,,,1,235,2017-07-10 19:09:09,None,None,None,None
+50931,test231,,,,,,1,236,2017-07-10 19:09:09,None,None,None,None
+50932,test232,,,,,,1,237,2017-07-10 19:09:09,None,None,None,None
+50933,test233,,,,,,1,238,2017-07-10 19:09:09,None,None,None,None
+50934,test234,,,,,,1,239,2017-07-10 19:09:09,None,None,None,None
+50935,test235,,,,,,1,240,2017-07-10 19:09:09,None,None,None,None
+50936,test236,,,,,,1,241,2017-07-10 19:09:09,None,None,None,None
+50937,test237,,,,,,1,242,2017-07-10 19:09:09,None,None,None,None
+50938,test238,,,,,,1,243,2017-07-10 19:09:09,None,None,None,None
+50939,test239,,,,,,1,244,2017-07-10 19:09:09,None,None,None,None
+50940,test240,,,,,,1,245,2017-07-10 19:09:09,None,None,None,None
+50941,test241,,,,,,1,246,2017-07-10 19:09:09,None,None,None,None
+50942,test242,,,,,,1,247,2017-07-10 19:09:09,None,None,None,None
+50943,test243,,,,,,1,248,2017-07-10 19:09:09,None,None,None,None
+50944,test244,,,,,,1,249,2017-07-10 19:09:09,None,None,None,None
+50945,test245,,,,,,1,250,2017-07-10 19:09:09,None,None,None,None
+50946,test246,,,,,,1,251,2017-07-10 19:09:09,None,None,None,None
+50947,test247,,,,,,1,252,2017-07-10 19:09:09,None,None,None,None
+50948,test248,,,,,,1,253,2017-07-10 19:09:09,None,None,None,None
+50949,test249,,,,,,1,254,2017-07-10 19:09:09,None,None,None,None
+50950,test250,,,,,,1,255,2017-07-10 19:09:09,None,None,None,None
+50951,test251,,,,,,1,256,2017-07-10 19:09:09,None,None,None,None
+50952,test252,,,,,,1,257,2017-07-10 19:09:09,None,None,None,None
+50953,test253,,,,,,1,258,2017-07-10 19:09:09,None,None,None,None
+50954,test254,,,,,,1,259,2017-07-10 19:09:09,None,None,None,None
+50955,test255,,,,,,1,260,2017-07-10 19:09:09,None,None,None,None
+50956,test256,,,,,,1,261,2017-07-10 19:09:09,None,None,None,None
+50957,test257,,,,,,1,262,2017-07-10 19:09:09,None,None,None,None
+50958,test258,,,,,,1,263,2017-07-10 19:09:09,None,None,None,None
+50959,test259,,,,,,1,264,2017-07-10 19:09:09,None,None,None,None
+50960,test260,,,,,,1,265,2017-07-10 19:09:09,None,None,None,None
+50961,test261,,,,,,1,266,2017-07-10 19:09:09,None,None,None,None
+50962,test262,,,,,,1,267,2017-07-10 19:09:09,None,None,None,None
+50963,test263,,,,,,1,268,2017-07-10 19:09:09,None,None,None,None
+50964,test264,,,,,,1,269,2017-07-10 19:09:09,None,None,None,None
+50965,test265,,,,,,1,270,2017-07-10 19:09:09,None,None,None,None
+50966,test266,,,,,,1,271,2017-07-10 19:09:09,None,None,None,None
+50967,test267,,,,,,1,272,2017-07-10 19:09:09,None,None,None,None
+50968,test268,,,,,,1,273,2017-07-10 19:09:09,None,None,None,None
+50969,test269,,,,,,1,274,2017-07-10 19:09:09,None,None,None,None
+50970,test270,,,,,,1,275,2017-07-10 19:09:09,None,None,None,None
+50971,test271,,,,,,1,276,2017-07-10 19:09:09,None,None,None,None
+50972,test272,,,,,,1,277,2017-07-10 19:09:09,None,None,None,None
+50973,test273,,,,,,1,278,2017-07-10 19:09:09,None,None,None,None
+50974,test274,,,,,,1,279,2017-07-10 19:09:09,None,None,None,None
+50975,test275,,,,,,1,280,2017-07-10 19:09:09,None,None,None,None
+50976,test276,,,,,,1,281,2017-07-10 19:09:09,None,None,None,None
+50977,test277,,,,,,1,282,2017-07-10 19:09:09,None,None,None,None
+50978,test278,,,,,,1,283,2017-07-10 19:09:09,None,None,None,None
+50979,test279,,,,,,1,284,2017-07-10 19:09:09,None,None,None,None
+50980,test280,,,,,,1,285,2017-07-10 19:09:09,None,None,None,None
+50981,test281,,,,,,1,286,2017-07-10 19:09:09,None,None,None,None
+50982,test282,,,,,,1,287,2017-07-10 19:09:09,None,None,None,None
+50983,test283,,,,,,1,288,2017-07-10 19:09:09,None,None,None,None
+50984,test284,,,,,,1,289,2017-07-10 19:09:09,None,None,None,None
+50985,test285,,,,,,1,290,2017-07-10 19:09:09,None,None,None,None
+50986,test286,,,,,,1,291,2017-07-10 19:09:09,None,None,None,None
+50987,test287,,,,,,1,292,2017-07-10 19:09:09,None,None,None,None
+50988,test288,,,,,,1,293,2017-07-10 19:09:09,None,None,None,None
+50989,test289,,,,,,1,294,2017-07-10 19:09:09,None,None,None,None
+50990,test290,,,,,,1,295,2017-07-10 19:09:09,None,None,None,None
+50991,test291,,,,,,1,296,2017-07-10 19:09:09,None,None,None,None
+50992,test292,,,,,,1,297,2017-07-10 19:09:09,None,None,None,None
+50993,test293,,,,,,1,298,2017-07-10 19:09:09,None,None,None,None
+50994,test294,,,,,,1,299,2017-07-10 19:09:09,None,None,None,None
+50995,test295,,,,,,1,300,2017-07-10 19:09:09,None,None,None,None
+50996,test296,,,,,,1,301,2017-07-10 19:09:09,None,None,None,None
+50997,test297,,,,,,1,302,2017-07-10 19:09:09,None,None,None,None
+50998,test298,,,,,,1,303,2017-07-10 19:09:09,None,None,None,None
+50999,test299,,,,,,1,304,2017-07-10 19:09:09,None,None,None,None
+51000,test300,,,,,,1,305,2017-07-10 19:09:09,None,None,None,None
+51001,test301,,,,,,1,306,2017-07-10 19:09:09,None,None,None,None
+51002,test302,,,,,,1,307,2017-07-10 19:09:09,None,None,None,None
+51003,test303,,,,,,1,308,2017-07-10 19:09:09,None,None,None,None
+51004,test304,,,,,,1,309,2017-07-10 19:09:09,None,None,None,None
+51005,test305,,,,,,1,310,2017-07-10 19:09:09,None,None,None,None
+51006,test306,,,,,,1,311,2017-07-10 19:09:09,None,None,None,None
+51007,test307,,,,,,1,312,2017-07-10 19:09:09,None,None,None,None
+51008,test308,,,,,,1,313,2017-07-10 19:09:09,None,None,None,None
+51009,test309,,,,,,1,314,2017-07-10 19:09:09,None,None,None,None
+51010,test310,,,,,,1,315,2017-07-10 19:09:09,None,None,None,None
+51011,test311,,,,,,1,316,2017-07-10 19:09:09,None,None,None,None
+51012,test312,,,,,,1,317,2017-07-10 19:09:09,None,None,None,None
+51013,test313,,,,,,1,318,2017-07-10 19:09:09,None,None,None,None
+51014,test314,,,,,,1,319,2017-07-10 19:09:09,None,None,None,None
+51015,test315,,,,,,1,320,2017-07-10 19:09:09,None,None,None,None
+51016,test316,,,,,,1,321,2017-07-10 19:09:09,None,None,None,None
+51017,test317,,,,,,1,322,2017-07-10 19:09:09,None,None,None,None
+51018,test318,,,,,,1,323,2017-07-10 19:09:09,None,None,None,None
+51019,test319,,,,,,1,324,2017-07-10 19:09:09,None,None,None,None
+51020,test320,,,,,,1,325,2017-07-10 19:09:09,None,None,None,None
+51021,test321,,,,,,1,326,2017-07-10 19:09:09,None,None,None,None
+51022,test322,,,,,,1,327,2017-07-10 19:09:09,None,None,None,None
+51023,test323,,,,,,1,328,2017-07-10 19:09:09,None,None,None,None
+51024,test324,,,,,,1,329,2017-07-10 19:09:09,None,None,None,None
+51025,test325,,,,,,1,330,2017-07-10 19:09:09,None,None,None,None
+51026,test326,,,,,,1,331,2017-07-10 19:09:09,None,None,None,None
+51027,test327,,,,,,1,332,2017-07-10 19:09:09,None,None,None,None
+51028,test328,,,,,,1,333,2017-07-10 19:09:09,None,None,None,None
+51029,test329,,,,,,1,334,2017-07-10 19:09:09,None,None,None,None
+51030,test330,,,,,,1,335,2017-07-10 19:09:09,None,None,None,None
+51031,test331,,,,,,1,336,2017-07-10 19:09:09,None,None,None,None
+51032,test332,,,,,,1,337,2017-07-10 19:09:09,None,None,None,None
+51033,test333,,,,,,1,338,2017-07-10 19:09:09,None,None,None,None
+51034,test334,,,,,,1,339,2017-07-10 19:09:09,None,None,None,None
+51035,test335,,,,,,1,340,2017-07-10 19:09:09,None,None,None,None
+51036,test336,,,,,,1,341,2017-07-10 19:09:09,None,None,None,None
+51037,test337,,,,,,1,342,2017-07-10 19:09:09,None,None,None,None
+51038,test338,,,,,,1,343,2017-07-10 19:09:09,None,None,None,None
+51039,test339,,,,,,1,344,2017-07-10 19:09:09,None,None,None,None
+51040,test340,,,,,,1,345,2017-07-10 19:09:09,None,None,None,None
+51041,test341,,,,,,1,346,2017-07-10 19:09:09,None,None,None,None
+51042,test342,,,,,,1,347,2017-07-10 19:09:09,None,None,None,None
+51043,test343,,,,,,1,348,2017-07-10 19:09:09,None,None,None,None
+51044,test344,,,,,,1,349,2017-07-10 19:09:09,None,None,None,None
+51045,test345,,,,,,1,350,2017-07-10 19:09:09,None,None,None,None
+51046,test346,,,,,,1,351,2017-07-10 19:09:09,None,None,None,None
+51047,test347,,,,,,1,352,2017-07-10 19:09:09,None,None,None,None
+51048,test348,,,,,,1,353,2017-07-10 19:09:09,None,None,None,None
+51049,test349,,,,,,1,354,2017-07-10 19:09:09,None,None,None,None
+51050,test350,,,,,,1,355,2017-07-10 19:09:09,None,None,None,None
+51051,test351,,,,,,1,356,2017-07-10 19:09:09,None,None,None,None
+51052,test352,,,,,,1,357,2017-07-10 19:09:09,None,None,None,None
+51053,test353,,,,,,1,358,2017-07-10 19:09:09,None,None,None,None
+51054,test354,,,,,,1,359,2017-07-10 19:09:09,None,None,None,None
+51055,test355,,,,,,1,360,2017-07-10 19:09:09,None,None,None,None
+51056,test356,,,,,,1,361,2017-07-10 19:09:09,None,None,None,None
+51057,test357,,,,,,1,362,2017-07-10 19:09:09,None,None,None,None
+51058,test358,,,,,,1,363,2017-07-10 19:09:09,None,None,None,None
+51059,test359,,,,,,1,364,2017-07-10 19:09:09,None,None,None,None
+51060,test360,,,,,,1,365,2017-07-10 19:09:09,None,None,None,None
+51061,test361,,,,,,1,366,2017-07-10 19:09:09,None,None,None,None
+51062,test362,,,,,,1,367,2017-07-10 19:09:09,None,None,None,None
+51063,test363,,,,,,1,368,2017-07-10 19:09:09,None,None,None,None
+51064,test364,,,,,,1,369,2017-07-10 19:09:09,None,None,None,None
+51065,test365,,,,,,1,370,2017-07-10 19:09:09,None,None,None,None
+51066,test366,,,,,,1,371,2017-07-10 19:09:09,None,None,None,None
+51067,test367,,,,,,1,372,2017-07-10 19:09:09,None,None,None,None
+51068,test368,,,,,,1,373,2017-07-10 19:09:09,None,None,None,None
+51069,test369,,,,,,1,374,2017-07-10 19:09:09,None,None,None,None
+51070,test370,,,,,,1,375,2017-07-10 19:09:09,None,None,None,None
+51071,test371,,,,,,1,376,2017-07-10 19:09:09,None,None,None,None
+51072,test372,,,,,,1,377,2017-07-10 19:09:09,None,None,None,None
+51073,test373,,,,,,1,378,2017-07-10 19:09:09,None,None,None,None
+51074,test374,,,,,,1,379,2017-07-10 19:09:09,None,None,None,None
+51075,test375,,,,,,1,380,2017-07-10 19:09:09,None,None,None,None
+51076,test376,,,,,,1,381,2017-07-10 19:09:09,None,None,None,None
+51077,test377,,,,,,1,382,2017-07-10 19:09:09,None,None,None,None
+51078,test378,,,,,,1,383,2017-07-10 19:09:09,None,None,None,None
+51079,test379,,,,,,1,384,2017-07-10 19:09:09,None,None,None,None
+51080,test380,,,,,,1,385,2017-07-10 19:09:09,None,None,None,None
+51081,test381,,,,,,1,386,2017-07-10 19:09:09,None,None,None,None
+51082,test382,,,,,,1,387,2017-07-10 19:09:09,None,None,None,None
+51083,test383,,,,,,1,388,2017-07-10 19:09:09,None,None,None,None
+51084,test384,,,,,,1,389,2017-07-10 19:09:09,None,None,None,None
+51085,test385,,,,,,1,390,2017-07-10 19:09:09,None,None,None,None
+51086,test386,,,,,,1,391,2017-07-10 19:09:09,None,None,None,None
+51087,test387,,,,,,1,392,2017-07-10 19:09:09,None,None,None,None
+51088,test388,,,,,,1,393,2017-07-10 19:09:09,None,None,None,None
+51089,test389,,,,,,1,394,2017-07-10 19:09:09,None,None,None,None
+51090,test390,,,,,,1,395,2017-07-10 19:09:09,None,None,None,None
+51091,test391,,,,,,1,396,2017-07-10 19:09:09,None,None,None,None
+51092,test392,,,,,,1,397,2017-07-10 19:09:09,None,None,None,None
+51093,test393,,,,,,1,398,2017-07-10 19:09:09,None,None,None,None
+51094,test394,,,,,,1,399,2017-07-10 19:09:09,None,None,None,None
+51095,test395,,,,,,1,400,2017-07-10 19:09:09,None,None,None,None
+51096,test396,,,,,,1,401,2017-07-10 19:09:09,None,None,None,None
+51097,test397,,,,,,1,402,2017-07-10 19:09:09,None,None,None,None
+51098,test398,,,,,,1,403,2017-07-10 19:09:09,None,None,None,None
+51099,test399,,,,,,1,404,2017-07-10 19:09:09,None,None,None,None
+51100,test400,,,,,,1,405,2017-07-10 19:09:09,None,None,None,None
+51101,test401,,,,,,1,406,2017-07-10 19:09:09,None,None,None,None
+51102,test402,,,,,,1,407,2017-07-10 19:09:09,None,None,None,None
+51103,test403,,,,,,1,408,2017-07-10 19:09:09,None,None,None,None
+51104,test404,,,,,,1,409,2017-07-10 19:09:09,None,None,None,None
+51105,test405,,,,,,1,410,2017-07-10 19:09:09,None,None,None,None
+51106,test406,,,,,,1,411,2017-07-10 19:09:09,None,None,None,None
+51107,test407,,,,,,1,412,2017-07-10 19:09:09,None,None,None,None
+51108,test408,,,,,,1,413,2017-07-10 19:09:09,None,None,None,None
+51109,test409,,,,,,1,414,2017-07-10 19:09:09,None,None,None,None
+51110,test410,,,,,,1,415,2017-07-10 19:09:09,None,None,None,None
+51111,test411,,,,,,1,416,2017-07-10 19:09:09,None,None,None,None
+51112,test412,,,,,,1,417,2017-07-10 19:09:09,None,None,None,None
+51113,test413,,,,,,1,418,2017-07-10 19:09:09,None,None,None,None
+51114,test414,,,,,,1,419,2017-07-10 19:09:09,None,None,None,None
+51115,test415,,,,,,1,420,2017-07-10 19:09:09,None,None,None,None
+51116,test416,,,,,,1,421,2017-07-10 19:09:09,None,None,None,None
+51117,test417,,,,,,1,422,2017-07-10 19:09:09,None,None,None,None
+51118,test418,,,,,,1,423,2017-07-10 19:09:09,None,None,None,None
+51119,test419,,,,,,1,424,2017-07-10 19:09:09,None,None,None,None
+51120,test420,,,,,,1,425,2017-07-10 19:09:09,None,None,None,None
+51121,test421,,,,,,1,426,2017-07-10 19:09:09,None,None,None,None
+51122,test422,,,,,,1,427,2017-07-10 19:09:09,None,None,None,None
+51123,test423,,,,,,1,428,2017-07-10 19:09:09,None,None,None,None
+51124,test424,,,,,,1,429,2017-07-10 19:09:09,None,None,None,None
+51125,test425,,,,,,1,430,2017-07-10 19:09:09,None,None,None,None
+51126,test426,,,,,,1,431,2017-07-10 19:09:09,None,None,None,None
+51127,test427,,,,,,1,432,2017-07-10 19:09:09,None,None,None,None
+51128,test428,,,,,,1,433,2017-07-10 19:09:09,None,None,None,None
+51129,test429,,,,,,1,434,2017-07-10 19:09:09,None,None,None,None
+51130,test430,,,,,,1,435,2017-07-10 19:09:09,None,None,None,None
+51131,test431,,,,,,1,436,2017-07-10 19:09:09,None,None,None,None
+51132,test432,,,,,,1,437,2017-07-10 19:09:09,None,None,None,None
+51133,test433,,,,,,1,438,2017-07-10 19:09:09,None,None,None,None
+51134,test434,,,,,,1,439,2017-07-10 19:09:09,None,None,None,None
+51135,test435,,,,,,1,440,2017-07-10 19:09:09,None,None,None,None
+51136,test436,,,,,,1,441,2017-07-10 19:09:09,None,None,None,None
+51137,test437,,,,,,1,442,2017-07-10 19:09:09,None,None,None,None
+51138,test438,,,,,,1,443,2017-07-10 19:09:09,None,None,None,None
+51139,test439,,,,,,1,444,2017-07-10 19:09:09,None,None,None,None
+51140,test440,,,,,,1,445,2017-07-10 19:09:09,None,None,None,None
+51141,test441,,,,,,1,446,2017-07-10 19:09:09,None,None,None,None
+51142,test442,,,,,,1,447,2017-07-10 19:09:09,None,None,None,None
+51143,test443,,,,,,1,448,2017-07-10 19:09:09,None,None,None,None
+51144,test444,,,,,,1,449,2017-07-10 19:09:09,None,None,None,None
+51145,test445,,,,,,1,450,2017-07-10 19:09:09,None,None,None,None
+51146,test446,,,,,,1,451,2017-07-10 19:09:09,None,None,None,None
+51147,test447,,,,,,1,452,2017-07-10 19:09:09,None,None,None,None
+51148,test448,,,,,,1,453,2017-07-10 19:09:09,None,None,None,None
+51149,test449,,,,,,1,454,2017-07-10 19:09:09,None,None,None,None
+51150,test450,,,,,,1,455,2017-07-10 19:09:09,None,None,None,None
+51151,test451,,,,,,1,456,2017-07-10 19:09:09,None,None,None,None
+51152,test452,,,,,,1,457,2017-07-10 19:09:09,None,None,None,None
+51153,test453,,,,,,1,458,2017-07-10 19:09:09,None,None,None,None
+51154,test454,,,,,,1,459,2017-07-10 19:09:09,None,None,None,None
+51155,test455,,,,,,1,460,2017-07-10 19:09:09,None,None,None,None
+51156,test456,,,,,,1,461,2017-07-10 19:09:09,None,None,None,None
+51157,test457,,,,,,1,462,2017-07-10 19:09:09,None,None,None,None
+51158,test458,,,,,,1,463,2017-07-10 19:09:09,None,None,None,None
+51159,test459,,,,,,1,464,2017-07-10 19:09:09,None,None,None,None
+51160,test460,,,,,,1,465,2017-07-10 19:09:09,None,None,None,None
+51161,test461,,,,,,1,466,2017-07-10 19:09:09,None,None,None,None
+51162,test462,,,,,,1,467,2017-07-10 19:09:09,None,None,None,None
+51163,test463,,,,,,1,468,2017-07-10 19:09:09,None,None,None,None
+51164,test464,,,,,,1,469,2017-07-10 19:09:09,None,None,None,None
+51165,test465,,,,,,1,470,2017-07-10 19:09:09,None,None,None,None
+51166,test466,,,,,,1,471,2017-07-10 19:09:09,None,None,None,None
+51167,test467,,,,,,1,472,2017-07-10 19:09:09,None,None,None,None
+51168,test468,,,,,,1,473,2017-07-10 19:09:09,None,None,None,None
+51169,test469,,,,,,1,474,2017-07-10 19:09:09,None,None,None,None
+51170,test470,,,,,,1,475,2017-07-10 19:09:09,None,None,None,None
+51171,test471,,,,,,1,476,2017-07-10 19:09:09,None,None,None,None
+51172,test472,,,,,,1,477,2017-07-10 19:09:09,None,None,None,None
+51173,test473,,,,,,1,478,2017-07-10 19:09:09,None,None,None,None
+51174,test474,,,,,,1,479,2017-07-10 19:09:09,None,None,None,None
+51175,test475,,,,,,1,480,2017-07-10 19:09:09,None,None,None,None
+51176,test476,,,,,,1,481,2017-07-10 19:09:09,None,None,None,None
+51177,test477,,,,,,1,482,2017-07-10 19:09:09,None,None,None,None
+51178,test478,,,,,,1,483,2017-07-10 19:09:09,None,None,None,None
+51179,test479,,,,,,1,484,2017-07-10 19:09:09,None,None,None,None
+51180,test480,,,,,,1,485,2017-07-10 19:09:09,None,None,None,None
+51181,test481,,,,,,1,486,2017-07-10 19:09:09,None,None,None,None
+51182,test482,,,,,,1,487,2017-07-10 19:09:09,None,None,None,None
+51183,test483,,,,,,1,488,2017-07-10 19:09:09,None,None,None,None
+51184,test484,,,,,,1,489,2017-07-10 19:09:09,None,None,None,None
+51185,test485,,,,,,1,490,2017-07-10 19:09:09,None,None,None,None
+51186,test486,,,,,,1,491,2017-07-10 19:09:09,None,None,None,None
+51187,test487,,,,,,1,492,2017-07-10 19:09:09,None,None,None,None
+51188,test488,,,,,,1,493,2017-07-10 19:09:09,None,None,None,None
+51189,test489,,,,,,1,494,2017-07-10 19:09:09,None,None,None,None
+51190,test490,,,,,,1,495,2017-07-10 19:09:09,None,None,None,None
+51191,test491,,,,,,1,496,2017-07-10 19:09:09,None,None,None,None
+51192,test492,,,,,,1,497,2017-07-10 19:09:09,None,None,None,None
+51193,test493,,,,,,1,498,2017-07-10 19:09:09,None,None,None,None
+51194,test494,,,,,,1,499,2017-07-10 19:09:09,None,None,None,None
+51195,test495,,,,,,1,500,2017-07-10 19:09:09,None,None,None,None
+51196,test496,,,,,,1,501,2017-07-10 19:09:09,None,None,None,None
+51197,test497,,,,,,1,502,2017-07-10 19:09:09,None,None,None,None
+51198,test498,,,,,,1,503,2017-07-10 19:09:09,None,None,None,None
+51199,test499,,,,,,1,504,2017-07-10 19:09:09,None,None,None,None
+51200,test500,,,,,,1,505,2017-07-10 19:09:09,None,None,None,None
+51201,test501,,,,,,1,506,2017-07-10 19:09:09,None,None,None,None
+51202,test502,,,,,,1,507,2017-07-10 19:09:09,None,None,None,None
+51203,test503,,,,,,1,508,2017-07-10 19:09:09,None,None,None,None
+51204,test504,,,,,,1,509,2017-07-10 19:09:09,None,None,None,None
+51205,test505,,,,,,1,510,2017-07-10 19:09:09,None,None,None,None
+51206,test506,,,,,,1,511,2017-07-10 19:09:09,None,None,None,None
+51207,test507,,,,,,1,512,2017-07-10 19:09:09,None,None,None,None
+51208,test508,,,,,,1,513,2017-07-10 19:09:09,None,None,None,None
+51209,test509,,,,,,1,514,2017-07-10 19:09:09,None,None,None,None
+51210,test510,,,,,,1,515,2017-07-10 19:09:09,None,None,None,None
+51211,test511,,,,,,1,516,2017-07-10 19:09:09,None,None,None,None
+51212,test512,,,,,,1,517,2017-07-10 19:09:09,None,None,None,None
+51213,test513,,,,,,1,518,2017-07-10 19:09:09,None,None,None,None
+51214,test514,,,,,,1,519,2017-07-10 19:09:09,None,None,None,None
+51215,test515,,,,,,1,520,2017-07-10 19:09:09,None,None,None,None
+51216,test516,,,,,,1,521,2017-07-10 19:09:09,None,None,None,None
+51217,test517,,,,,,1,522,2017-07-10 19:09:09,None,None,None,None
+51218,test518,,,,,,1,523,2017-07-10 19:09:09,None,None,None,None
+51219,test519,,,,,,1,524,2017-07-10 19:09:09,None,None,None,None
+51220,test520,,,,,,1,525,2017-07-10 19:09:09,None,None,None,None
+51221,test521,,,,,,1,526,2017-07-10 19:09:09,None,None,None,None
+51222,test522,,,,,,1,527,2017-07-10 19:09:09,None,None,None,None
+51223,test523,,,,,,1,528,2017-07-10 19:09:09,None,None,None,None
+51224,test524,,,,,,1,529,2017-07-10 19:09:09,None,None,None,None
+51225,test525,,,,,,1,530,2017-07-10 19:09:09,None,None,None,None
+51226,test526,,,,,,1,531,2017-07-10 19:09:09,None,None,None,None
+51227,test527,,,,,,1,532,2017-07-10 19:09:09,None,None,None,None
+51228,test528,,,,,,1,533,2017-07-10 19:09:09,None,None,None,None
+51229,test529,,,,,,1,534,2017-07-10 19:09:09,None,None,None,None
+51230,test530,,,,,,1,535,2017-07-10 19:09:09,None,None,None,None
+51231,test531,,,,,,1,536,2017-07-10 19:09:09,None,None,None,None
+51232,test532,,,,,,1,537,2017-07-10 19:09:09,None,None,None,None
+51233,test533,,,,,,1,538,2017-07-10 19:09:09,None,None,None,None
+51234,test534,,,,,,1,539,2017-07-10 19:09:09,None,None,None,None
+51235,test535,,,,,,1,540,2017-07-10 19:09:09,None,None,None,None
+51236,test536,,,,,,1,541,2017-07-10 19:09:09,None,None,None,None
+51237,test537,,,,,,1,542,2017-07-10 19:09:09,None,None,None,None
+51238,test538,,,,,,1,543,2017-07-10 19:09:09,None,None,None,None
+51239,test539,,,,,,1,544,2017-07-10 19:09:09,None,None,None,None
+51240,test540,,,,,,1,545,2017-07-10 19:09:09,None,None,None,None
+51241,test541,,,,,,1,546,2017-07-10 19:09:09,None,None,None,None
+51242,test542,,,,,,1,547,2017-07-10 19:09:09,None,None,None,None
+51243,test543,,,,,,1,548,2017-07-10 19:09:09,None,None,None,None
+51244,test544,,,,,,1,549,2017-07-10 19:09:09,None,None,None,None
+51245,test545,,,,,,1,550,2017-07-10 19:09:09,None,None,None,None
+51246,test546,,,,,,1,551,2017-07-10 19:09:09,None,None,None,None
+51247,test547,,,,,,1,552,2017-07-10 19:09:09,None,None,None,None
+51248,test548,,,,,,1,553,2017-07-10 19:09:09,None,None,None,None
+51249,test549,,,,,,1,554,2017-07-10 19:09:09,None,None,None,None
+51250,test550,,,,,,1,555,2017-07-10 19:09:09,None,None,None,None
+51251,test551,,,,,,1,556,2017-07-10 19:09:09,None,None,None,None
+51252,test552,,,,,,1,557,2017-07-10 19:09:09,None,None,None,None
+51253,test553,,,,,,1,558,2017-07-10 19:09:09,None,None,None,None
+51254,test554,,,,,,1,559,2017-07-10 19:09:09,None,None,None,None
+51255,test555,,,,,,1,560,2017-07-10 19:09:09,None,None,None,None
+51256,test556,,,,,,1,561,2017-07-10 19:09:09,None,None,None,None
+51257,test557,,,,,,1,562,2017-07-10 19:09:09,None,None,None,None
+51258,test558,,,,,,1,563,2017-07-10 19:09:09,None,None,None,None
+51259,test559,,,,,,1,564,2017-07-10 19:09:09,None,None,None,None
+51260,test560,,,,,,1,565,2017-07-10 19:09:09,None,None,None,None
+51261,test561,,,,,,1,566,2017-07-10 19:09:09,None,None,None,None
+51262,test562,,,,,,1,567,2017-07-10 19:09:09,None,None,None,None
+51263,test563,,,,,,1,568,2017-07-10 19:09:09,None,None,None,None
+51264,test564,,,,,,1,569,2017-07-10 19:09:09,None,None,None,None
+51265,test565,,,,,,1,570,2017-07-10 19:09:09,None,None,None,None
+51266,test566,,,,,,1,571,2017-07-10 19:09:09,None,None,None,None
+51267,test567,,,,,,1,572,2017-07-10 19:09:09,None,None,None,None
+51268,test568,,,,,,1,573,2017-07-10 19:09:09,None,None,None,None
+51269,test569,,,,,,1,574,2017-07-10 19:09:09,None,None,None,None
+51270,test570,,,,,,1,575,2017-07-10 19:09:09,None,None,None,None
+51271,test571,,,,,,1,576,2017-07-10 19:09:09,None,None,None,None
+51272,test572,,,,,,1,577,2017-07-10 19:09:09,None,None,None,None
+51273,test573,,,,,,1,578,2017-07-10 19:09:09,None,None,None,None
+51274,test574,,,,,,1,579,2017-07-10 19:09:09,None,None,None,None
+51275,test575,,,,,,1,580,2017-07-10 19:09:09,None,None,None,None
+51276,test576,,,,,,1,581,2017-07-10 19:09:09,None,None,None,None
+51277,test577,,,,,,1,582,2017-07-10 19:09:09,None,None,None,None
+51278,test578,,,,,,1,583,2017-07-10 19:09:09,None,None,None,None
+51279,test579,,,,,,1,584,2017-07-10 19:09:09,None,None,None,None
+51280,test580,,,,,,1,585,2017-07-10 19:09:09,None,None,None,None
+51281,test581,,,,,,1,586,2017-07-10 19:09:09,None,None,None,None
+51282,test582,,,,,,1,587,2017-07-10 19:09:09,None,None,None,None
+51283,test583,,,,,,1,588,2017-07-10 19:09:09,None,None,None,None
+51284,test584,,,,,,1,589,2017-07-10 19:09:09,None,None,None,None
+51285,test585,,,,,,1,590,2017-07-10 19:09:09,None,None,None,None
+51286,test586,,,,,,1,591,2017-07-10 19:09:09,None,None,None,None
+51287,test587,,,,,,1,592,2017-07-10 19:09:09,None,None,None,None
+51288,test588,,,,,,1,593,2017-07-10 19:09:09,None,None,None,None
+51289,test589,,,,,,1,594,2017-07-10 19:09:09,None,None,None,None
+51290,test590,,,,,,1,595,2017-07-10 19:09:09,None,None,None,None
+51291,test591,,,,,,1,596,2017-07-10 19:09:09,None,None,None,None
+51292,test592,,,,,,1,597,2017-07-10 19:09:09,None,None,None,None
+51293,test593,,,,,,1,598,2017-07-10 19:09:09,None,None,None,None
+51294,test594,,,,,,1,599,2017-07-10 19:09:09,None,None,None,None
+51295,test595,,,,,,1,600,2017-07-10 19:09:09,None,None,None,None
+51296,test596,,,,,,1,601,2017-07-10 19:09:09,None,None,None,None
+51297,test597,,,,,,1,602,2017-07-10 19:09:09,None,None,None,None
+51298,test598,,,,,,1,603,2017-07-10 19:09:09,None,None,None,None
+51299,test599,,,,,,1,604,2017-07-10 19:09:09,None,None,None,None
+51300,test600,,,,,,1,605,2017-07-10 19:09:09,None,None,None,None
+51301,test601,,,,,,1,606,2017-07-10 19:09:09,None,None,None,None
+51302,test602,,,,,,1,607,2017-07-10 19:09:09,None,None,None,None
+51303,test603,,,,,,1,608,2017-07-10 19:09:09,None,None,None,None
+51304,test604,,,,,,1,609,2017-07-10 19:09:09,None,None,None,None
+51305,test605,,,,,,1,610,2017-07-10 19:09:09,None,None,None,None
+51306,test606,,,,,,1,611,2017-07-10 19:09:09,None,None,None,None
+51307,test607,,,,,,1,612,2017-07-10 19:09:09,None,None,None,None
+51308,test608,,,,,,1,613,2017-07-10 19:09:09,None,None,None,None
+51309,test609,,,,,,1,614,2017-07-10 19:09:09,None,None,None,None
+51310,test610,,,,,,1,615,2017-07-10 19:09:09,None,None,None,None
+51311,test611,,,,,,1,616,2017-07-10 19:09:09,None,None,None,None
+51312,test612,,,,,,1,617,2017-07-10 19:09:09,None,None,None,None
+51313,test613,,,,,,1,618,2017-07-10 19:09:09,None,None,None,None
+51314,test614,,,,,,1,619,2017-07-10 19:09:09,None,None,None,None
+51315,test615,,,,,,1,620,2017-07-10 19:09:09,None,None,None,None
+51316,test616,,,,,,1,621,2017-07-10 19:09:09,None,None,None,None
+51317,test617,,,,,,1,622,2017-07-10 19:09:09,None,None,None,None
+51318,test618,,,,,,1,623,2017-07-10 19:09:09,None,None,None,None
+51319,test619,,,,,,1,624,2017-07-10 19:09:09,None,None,None,None
+51320,test620,,,,,,1,625,2017-07-10 19:09:09,None,None,None,None
+51321,test621,,,,,,1,626,2017-07-10 19:09:09,None,None,None,None
+51322,test622,,,,,,1,627,2017-07-10 19:09:09,None,None,None,None
+51323,test623,,,,,,1,628,2017-07-10 19:09:09,None,None,None,None
+51324,test624,,,,,,1,629,2017-07-10 19:09:09,None,None,None,None
+51325,test625,,,,,,1,630,2017-07-10 19:09:09,None,None,None,None
+51326,test626,,,,,,1,631,2017-07-10 19:09:09,None,None,None,None
+51327,test627,,,,,,1,632,2017-07-10 19:09:09,None,None,None,None
+51328,test628,,,,,,1,633,2017-07-10 19:09:09,None,None,None,None
+51329,test629,,,,,,1,634,2017-07-10 19:09:09,None,None,None,None
+51330,test630,,,,,,1,635,2017-07-10 19:09:09,None,None,None,None
+51331,test631,,,,,,1,636,2017-07-10 19:09:09,None,None,None,None
+51332,test632,,,,,,1,637,2017-07-10 19:09:09,None,None,None,None
+51333,test633,,,,,,1,638,2017-07-10 19:09:09,None,None,None,None
+51334,test634,,,,,,1,639,2017-07-10 19:09:09,None,None,None,None
+51335,test635,,,,,,1,640,2017-07-10 19:09:09,None,None,None,None
+51336,test636,,,,,,1,641,2017-07-10 19:09:09,None,None,None,None
+51337,test637,,,,,,1,642,2017-07-10 19:09:09,None,None,None,None
+51338,test638,,,,,,1,643,2017-07-10 19:09:09,None,None,None,None
+51339,test639,,,,,,1,644,2017-07-10 19:09:09,None,None,None,None
+51340,test640,,,,,,1,645,2017-07-10 19:09:09,None,None,None,None
+51341,test641,,,,,,1,646,2017-07-10 19:09:09,None,None,None,None
+51342,test642,,,,,,1,647,2017-07-10 19:09:09,None,None,None,None
+51343,test643,,,,,,1,648,2017-07-10 19:09:09,None,None,None,None
+51344,test644,,,,,,1,649,2017-07-10 19:09:09,None,None,None,None
+51345,test645,,,,,,1,650,2017-07-10 19:09:09,None,None,None,None
+51346,test646,,,,,,1,651,2017-07-10 19:09:09,None,None,None,None
+51347,test647,,,,,,1,652,2017-07-10 19:09:09,None,None,None,None
+51348,test648,,,,,,1,653,2017-07-10 19:09:09,None,None,None,None
+51349,test649,,,,,,1,654,2017-07-10 19:09:09,None,None,None,None
+51350,test650,,,,,,1,655,2017-07-10 19:09:09,None,None,None,None
+51351,test651,,,,,,1,656,2017-07-10 19:09:09,None,None,None,None
+51352,test652,,,,,,1,657,2017-07-10 19:09:09,None,None,None,None
+51353,test653,,,,,,1,658,2017-07-10 19:09:09,None,None,None,None
+51354,test654,,,,,,1,659,2017-07-10 19:09:09,None,None,None,None
+51355,test655,,,,,,1,660,2017-07-10 19:09:09,None,None,None,None
+51356,test656,,,,,,1,661,2017-07-10 19:09:09,None,None,None,None
+51357,test657,,,,,,1,662,2017-07-10 19:09:09,None,None,None,None
+51358,test658,,,,,,1,663,2017-07-10 19:09:09,None,None,None,None
+51359,test659,,,,,,1,664,2017-07-10 19:09:09,None,None,None,None
+51360,test660,,,,,,1,665,2017-07-10 19:09:09,None,None,None,None
+51361,test661,,,,,,1,666,2017-07-10 19:09:09,None,None,None,None
+51362,test662,,,,,,1,667,2017-07-10 19:09:09,None,None,None,None
+51363,test663,,,,,,1,668,2017-07-10 19:09:09,None,None,None,None
+51364,test664,,,,,,1,669,2017-07-10 19:09:09,None,None,None,None
+51365,test665,,,,,,1,670,2017-07-10 19:09:09,None,None,None,None
+51366,test666,,,,,,1,671,2017-07-10 19:09:09,None,None,None,None
+51367,test667,,,,,,1,672,2017-07-10 19:09:09,None,None,None,None
+51368,test668,,,,,,1,673,2017-07-10 19:09:09,None,None,None,None
+51369,test669,,,,,,1,674,2017-07-10 19:09:09,None,None,None,None
+51370,test670,,,,,,1,675,2017-07-10 19:09:09,None,None,None,None
+51371,test671,,,,,,1,676,2017-07-10 19:09:09,None,None,None,None
+102378,102378cs,,,,,,1,0,2017-07-10 19:09:09,None,None,None,None
+123321,test,,,,,,1,5,2017-07-10 19:09:09,None,None,None,None
+123456,未知商品,,默认,,默认,,1,0,2017-07-10 19:09:09,None,None,None,None
+128439,五夜神,None,None,None,None,,1,12,2017-07-10 19:09:09,None,None,None,None
+133001,133001,,爱鲜蜂,,,,1,3,2017-07-10 19:09:09,None,None,None,None
+133002,133002,,爱鲜蜂,,,,1,3.2,2017-07-10 19:09:09,None,None,None,None
+133003,133003,,,,,,1,7.8,2017-07-10 19:09:09,None,None,None,None
+133004,133004,,默认,,默认,,1,3.8,2017-07-10 19:09:09,None,None,None,None
+144001,144001,,爱鲜蜂,,,,1,6.78,2017-07-10 19:09:09,None,None,None,None
+144002,144002,,爱鲜蜂,,,,1,7.62,2017-07-10 19:09:09,None,None,None,None
+144003,144003,,默认,,默认,,1,31.67,2017-07-10 19:09:09,None,None,None,None
+144004,144004,,默认,,默认,,1,42.65,2017-07-10 19:09:09,None,None,None,None
+144005,144005,,默认,,默认,,1,4.45,2017-07-10 19:09:09,None,None,None,None
+147357,简版,,爱鲜蜂,,,,1,20,2017-07-10 19:09:09,None,None,None,None
+147358,简版,,爱鲜蜂,,,,1,60,2017-07-10 19:09:09,None,None,None,None
+155001,lc155001,,爱鲜蜂,,,,1,6.78,2017-07-10 19:09:09,None,None,None,None
+200005,未知商品200005,,默认,,默认,,1,30,2017-07-10 19:09:09,None,None,None,None
+205813,cs,,爱鲜蜂,,,,1,20,2017-07-10 19:09:09,None,None,None,None
+213123,中华花清护牙膏清菊百合味牙膏90g,90g,中華,,组,,1,75.48,2017-07-10 19:09:09,None,None,None,None
+258036,jbcs,,爱鲜蜂,,,,1,30,2017-07-10 19:09:09,None,None,None,None
+258047,未知商品3832,,默认,,默认,,1,8,2017-07-10 19:09:09,None,None,None,None
+258146,测试,,爱鲜蜂,,,,1,4,2017-07-10 19:09:09,None,None,None,None
+258147,简版,,爱鲜蜂,,,,1,5,2017-07-10 19:09:09,None,None,None,None
+258756,未知商品5774,,默认,,默认,,1,9,2017-07-10 19:09:09,None,None,None,None
+258757,测试,,爱鲜蜂,,,,1,90,2017-07-10 19:09:09,None,None,None,None
+258758,测试,,爱鲜蜂,,,,1,60,2017-07-10 19:09:09,None,None,None,None
+258790,厕所,,爱鲜蜂,,,,1,368,2017-07-10 19:09:09,None,None,None,None
+258791,厕所,,爱鲜蜂,,,,1,6440,2017-07-10 19:09:09,None,None,None,None
+258797,未知商品2434,,默认,,默认,,1,6,2017-07-10 19:09:09,None,None,None,None
+258798,测试,,爱鲜蜂,,,,1,390,2017-07-10 19:09:09,None,None,None,None
+258799,测试,,爱鲜蜂,,,,1,350,2017-07-10 19:09:09,None,None,None,None
+258960,厕所,,爱鲜蜂,,,,1,60,2017-07-10 19:09:09,None,None,None,None
+258961,测试,,爱鲜蜂,,,,1,30,2017-07-10 19:09:09,None,None,None,None
+369580,简版,,爱鲜蜂,,,,1,9,2017-07-10 19:09:09,None,None,None,None
+500010,旅行箱,个,其他,,个,,1,65,2017-07-10 19:09:09,None,None,None,None
+500011,宽胶带,个,其他,,个,,1,5.5,2017-07-10 19:09:09,None,None,None,None
+1001001,1001001cs,,爱鲜蜂,,,,1,9,2017-07-10 19:09:09,None,None,None,None
+1001002,1001002,,爱鲜蜂,,,,1,19,2017-07-10 19:09:09,None,None,None,None
+1110001,1110001,,爱鲜蜂,,,,1,5,2017-07-10 19:09:09,None,None,None,None
+1110002,1110002,,爱鲜蜂,,,,1,6.65,2017-07-10 19:09:09,None,None,None,None
+1230001,lc自建商品01,,默认,,默认,,1,7.21,2017-07-10 19:09:09,None,None,None,None
+1230002,lc自建商品02,,,,,,1,9.65,2017-07-10 19:09:09,None,None,None,None
+1230003,lc自建商品03,,,,,,1,8.91,2017-07-10 19:09:09,None,None,None,None
+1233211,未知商品8099,,默认,,默认,,1,3,2017-07-10 19:09:09,None,None,None,None
+1233212,未知商品7701,,默认,,默认,,1,30,2017-07-10 19:09:09,None,None,None,None
+1234001,qwe001,,爱鲜蜂,,,,1,2,2017-07-10 19:09:09,None,None,None,None
+1234002,qwe002,,爱鲜蜂,,,,1,5,2017-07-10 19:09:09,None,None,None,None
+1234003,qwe003,,爱鲜蜂,,,,1,8,2017-07-10 19:09:09,None,None,None,None
+1234004,qwe004,,爱鲜蜂,,,,1,2,2017-07-10 19:09:09,None,None,None,None
+1234005,qwe005,,爱鲜蜂,,,,1,5,2017-07-10 19:09:09,None,None,None,None
+1234006,qwe006,,爱鲜蜂,,,,1,8,2017-07-10 19:09:09,None,None,None,None
+1234007,qwe007,,爱鲜蜂,,,,1,2,2017-07-10 19:09:09,None,None,None,None
+1234008,qwe008,,爱鲜蜂,,,,1,5,2017-07-10 19:09:09,None,None,None,None
+1234009,qwe009,,爱鲜蜂,,,,1,8,2017-07-10 19:09:09,None,None,None,None
+1234010,qwe010,,爱鲜蜂,,,,1,2,2017-07-10 19:09:09,None,None,None,None
+1234011,qwe011,,爱鲜蜂,,,,1,5,2017-07-10 19:09:09,None,None,None,None
+1234012,qwe012,,爱鲜蜂,,,,1,8,2017-07-10 19:09:09,None,None,None,None
+1234013,qwe013,,爱鲜蜂,,,,1,2,2017-07-10 19:09:09,None,None,None,None
+1234014,qwe014,,爱鲜蜂,,,,1,5,2017-07-10 19:09:09,None,None,None,None
+1234015,qwe015,,爱鲜蜂,,,,1,8,2017-07-10 19:09:09,None,None,None,None
+1234016,qwe016,,爱鲜蜂,,,,1,2,2017-07-10 19:09:09,None,None,None,None
+1234017,qwe017,,爱鲜蜂,,,,1,5,2017-07-10 19:09:09,None,None,None,None
+1234018,qwe018,,爱鲜蜂,,,,1,8,2017-07-10 19:09:09,None,None,None,None
+1234019,qwe019,,爱鲜蜂,,,,1,2,2017-07-10 19:09:09,None,None,None,None
+1234020,qwe020,,爱鲜蜂,,,,1,5,2017-07-10 19:09:09,None,None,None,None
+1236549,未知商品236549,,默认,,默认,,1,12,2017-07-10 19:09:09,None,None,None,None
+1593570,测试,,爱鲜蜂,,,,1,60,2017-07-10 19:09:09,None,None,None,None
+1593571,测试,,爱鲜蜂,,,,1,90,2017-07-10 19:09:09,None,None,None,None
+1593572,未知商品3803,,默认,,默认,,1,357,2017-07-10 19:09:09,None,None,None,None
+2312580,未知商品6229,,默认,,默认,,1,2,2017-07-10 19:09:09,None,None,None,None
+2580035,jbcd2,,爱鲜蜂,,,,1,70,2017-07-10 19:09:09,None,None,None,None
+2580147,测试,,爱鲜蜂,,,,1,89,2017-07-10 19:09:09,None,None,None,None
+2580148,未知商品1333,,默认,,默认,,1,9,2017-07-10 19:09:09,None,None,None,None
+2580149,测试,,爱鲜蜂,,默认,,1,80,2017-07-10 19:09:09,None,None,None,None
+2580357,测试,,爱鲜蜂,,,,1,6,2017-07-10 19:09:09,None,None,None,None
+2580358,测试,,爱鲜蜂,,,,1,5,2017-07-10 19:09:09,None,None,None,None
+2580359,测试,,爱鲜蜂,,,,1,90,2017-07-10 19:09:09,None,None,None,None
+2580360,未知商品1176,,默认,,默认,,1,9,2017-07-10 19:09:09,None,None,None,None
+2580369,老版02,,默认,,默认,,1,8,2017-07-10 19:09:09,None,None,None,None
+2680147,测试,,爱鲜蜂,,默认,,1,990,2017-07-10 19:09:09,None,None,None,None
+2680148,未知商品6830,,默认,,默认,,1,9,2017-07-10 19:09:09,None,None,None,None
+2680149,阿狸,,爱鲜蜂,,默认,,1,7,2017-07-10 19:09:09,None,None,None,None
+4905004,可口可乐樱桃味,330ml,维他,,箱,,1,10.5,2017-07-10 19:09:09,None,None,None,None
+11199901,lc11199901,,爱鲜蜂,,,,1,5.69,2017-07-10 19:09:09,None,None,None,None
+12580756,未知756,,,,,,1,100,2017-07-10 19:09:09,None,None,None,None
+12580786,12580786,,爱鲜蜂,,,,1,60,2017-07-10 19:09:09,None,None,None,None
+12580789,12580786,,爱鲜蜂,,,,1,20,2017-07-10 19:09:09,None,None,None,None
+15802470,未知商品0504,,默认,,默认,,1,6,2017-07-10 19:09:09,None,None,None,None
+20170325,cs20170324,,爱鲜蜂,,,,1,70,2017-07-10 19:09:09,None,None,None,None
+21468071,简版,,爱鲜蜂,,,,1,80,2017-07-10 19:09:09,None,None,None,None
+23456789,lbcs,,,,,,1,3,2017-07-10 19:09:09,None,None,None,None
+23625980,Ceylonese,,爱鲜蜂,,,,1,6,2017-07-10 19:09:09,None,None,None,None
+25801234,测试,,爱鲜蜂,,,,1,40,2017-07-10 19:09:09,None,None,None,None
+25801235,测试,,爱鲜蜂,,,,1,500,2017-07-10 19:09:09,None,None,None,None
+25801236,未知商品9254,,默认,,默认,,1,36,2017-07-10 19:09:09,None,None,None,None
+25801237,未知商品2633,,默认,,默认,,1,37,2017-07-10 19:09:09,None,None,None,None
+25801238,未知商品8956,,默认,,默认,,1,69,2017-07-10 19:09:09,None,None,None,None
+25801450,测试,,爱鲜蜂,,,,1,2680,2017-07-10 19:09:09,None,None,None,None
+25801451,未知商品5767,,默认,,默认,,1,55,2017-07-10 19:09:09,None,None,None,None
+25801456,未知商品1621,,默认,,默认,,1,390,2017-07-10 19:09:09,None,None,None,None
+25801476,未知商品8198,,默认,,默认,,1,5,2017-07-10 19:09:09,None,None,None,None
+25801580,未知商品9080,,默认,,默认,,1,56,2017-07-10 19:09:09,None,None,None,None
+25801581,未知商品1020,,默认,,默认,,1,59,2017-07-10 19:09:09,None,None,None,None
+25801583,测试,,爱鲜蜂,,,,1,480,2017-07-10 19:09:09,None,None,None,None
+25803690,简版,,爱鲜蜂,,,,1,4,2017-07-10 19:09:09,None,None,None,None
+25803691,测试,,爱鲜蜂,,,,1,3680,2017-07-10 19:09:09,None,None,None,None
+25803692,未知商品1950,,默认,,默认,,1,65,2017-07-10 19:09:09,None,None,None,None
+25803693,未知商品5511,,默认,,默认,,1,58,2017-07-10 19:09:09,None,None,None,None
+25803695,未知商品7221,,默认,,默认,,1,655888,2017-07-10 19:09:09,None,None,None,None
+25803698,测试,,爱鲜蜂,,,,1,9,2017-07-10 19:09:09,None,None,None,None
+25803699,测试,,爱鲜蜂,,,,1,9,2017-07-10 19:09:09,None,None,None,None
+25874690,ygvhbf,,默认,,默认,,1,8,2017-07-10 19:09:09,None,None,None,None
+26802580,hjh,,爱鲜蜂,,,,1,88,2017-07-10 19:09:09,None,None,None,None
+35802580,简版,,爱鲜蜂,,,,1,90,2017-07-10 19:09:09,None,None,None,None
+36925680,阿伦,,爱鲜蜂,,,,1,6,2017-07-10 19:09:09,None,None,None,None
+36925801,测试,,爱鲜蜂,,,,1,60,2017-07-10 19:09:09,None,None,None,None
+36925802,测试,,爱鲜蜂,,,,1,80,2017-07-10 19:09:09,None,None,None,None
+36925803,未知商品3328,,默认,,默认,,1,9,2017-07-10 19:09:09,None,None,None,None
+49795301,狮王儿童牙膏（草莓）,支,狮王,,支,,1,30,2017-07-10 19:09:09,None,None,None,None
+49795318,狮王儿童牙膏（蜜瓜）,支,狮王,,支,,1,30,2017-07-10 19:09:09,None,None,None,None
+110210310,测试老板,,,,,,1,2,2017-07-10 19:09:09,None,None,None,None
+120130140,老板测试,,默认,,默认,,1,2,2017-07-10 19:09:09,None,None,None,None
+123456780,cssj,,爱鲜蜂,,,,1,40,2017-07-10 19:09:09,None,None,None,None
+123456789,内裤男,,默认,None,默认,,1,0,2017-07-10 19:09:09,None,None,None,None
+147258001,aaa,,爱鲜蜂,,,,1,30,2017-07-10 19:09:09,None,None,None,None
+234567890,jbkt,,爱鲜蜂,,,,1,20,2017-07-10 19:09:09,None,None,None,None
+255558780,厕所,,爱鲜蜂,,,,1,20,2017-07-10 19:09:09,None,None,None,None
+256398147,简版02,,爱鲜蜂,,,,1,8,2017-07-10 19:09:09,None,None,None,None
+258014769,简版,,爱鲜蜂,,,,1,20,2017-07-10 19:09:09,None,None,None,None
+258014780,未知商品7826,,默认,,默认,,1,60,2017-07-10 19:09:09,None,None,None,None
+258014788,未知商品6594,,默认,,默认,,1,70,2017-07-10 19:09:09,None,None,None,None
+258014789,测试,,爱鲜蜂,,,,1,80,2017-07-10 19:09:09,None,None,None,None
+258014790,未知商品7094,,默认,,默认,,1,47,2017-07-10 19:09:09,None,None,None,None
+258014791,未知商品8748,,默认,,默认,,1,59,2017-07-10 19:09:09,None,None,None,None
+258014793,测试,,爱鲜蜂,,,,1,200,2017-07-10 19:09:09,None,None,None,None
+258023456,测试,,爱鲜蜂,,,,1,460,2017-07-10 19:09:09,None,None,None,None
+258024790,未知商品1091,,默认,,默认,,1,30,2017-07-10 19:09:09,None,None,None,None
+258024792,未知商品4465,,默认,,默认,,1,37,2017-07-10 19:09:09,None,None,None,None
+258024794,测试,,爱鲜蜂,,,,1,800,2017-07-10 19:09:09,None,None,None,None
+258034510,未知商品1908,,默认,,默认,,1,98,2017-07-10 19:09:09,None,None,None,None
+258034567,测试,,爱鲜蜂,,,,1,880,2017-07-10 19:09:09,None,None,None,None
+258034568,未知商品2862,,默认,,默认,,1,350,2017-07-10 19:09:09,None,None,None,None
+258034569,未知商品5802,,默认,,默认,,1,68,2017-07-10 19:09:09,None,None,None,None
+258036908,测试,,爱鲜蜂,,,,1,5860,2017-07-10 19:09:09,None,None,None,None
+258039580,老版,,默认,,默认,,1,5,2017-07-10 19:09:09,None,None,None,None
+258581477,老版,,默认,,默认,,1,7,2017-07-10 19:09:09,None,None,None,None
+369258600,阿鲁,,爱鲜蜂,,,,1,9,2017-07-10 19:09:09,None,None,None,None
+0578138520,胶水,None,None,None,None,,1,12,2017-07-10 19:09:09,None,None,None,None
+1147444444,简版6,,爱鲜蜂,,,,1,780,2017-07-10 19:09:09,None,None,None,None
+1152346789,未知商品346789,,默认,,默认,,1,5,2017-07-10 19:09:09,None,None,None,None
+1234562581,未知商品3240,,默认,,默认,,1,30,2017-07-10 19:09:09,None,None,None,None
+1234562582,未知商品5786,,默认,,默认,,1,40,2017-07-10 19:09:09,None,None,None,None
+1593687420,未知商品3978,,,,,,1,2,2017-07-10 19:09:09,None,None,None,None
+2016083001,RIO橙味鸡尾酒第二件半价,,RIO,,瓶,,1,20.2,2017-07-10 19:09:09,None,None,None,None
+2016090601,晨光中性笔红色K35单支,1支,晨光,,支,,1,2.5,2017-07-10 19:09:09,None,None,None,None
+2016090602,晨光中性笔蓝色K35单支,1支,晨光,,支,,1,2.5,2017-07-10 19:09:09,None,None,None,None
+2016090603,晨光中性笔黑色K35单支,1支,晨光,,支,,1,2.5,2017-07-10 19:09:09,None,None,None,None
+2017032501,cs2017032501,,爱鲜蜂,,,,1,90,2017-07-10 19:09:09,None,None,None,None
+2017032502,cs2017032502,,爱鲜蜂,,,,1,100,2017-07-10 19:09:09,None,None,None,None
+2017032503,未知商品032503,,默认,,默认,,1,2,2017-07-10 19:09:09,None,None,None,None
+2017032504,未知商品032504,,默认,,默认,,1,7,2017-07-10 19:09:09,None,None,None,None
+2017032505,未知商品032505,,默认,,默认,,1,9,2017-07-10 19:09:09,None,None,None,None
+2017032510,未知商品032510,,默认,,默认,,1,2,2017-07-10 19:09:09,None,None,None,None
+2017032511,cs2017032511,,爱鲜蜂,,,,1,20,2017-07-10 19:09:09,None,None,None,None
+2017032512,cs2017032512,,爱鲜蜂,,,,1,60,2017-07-10 19:09:09,None,None,None,None
+2017032513,未知商品032513,,默认,,默认,,1,11,2017-07-10 19:09:09,None,None,None,None
+2017032521,q,,爱鲜蜂,,,,1,30,2017-07-10 19:09:09,None,None,None,None
+2017032522,r,,爱鲜蜂,,,,1,60,2017-07-10 19:09:09,None,None,None,None
+2017032523,e,,爱鲜蜂,,,,1,90,2017-07-10 19:09:09,None,None,None,None
+2017032530,2017032530,,爱鲜蜂,,,,1,20,2017-07-10 19:09:09,None,None,None,None
+2017032531,asdf,,爱鲜蜂,,,,1,50,2017-07-10 19:09:09,None,None,None,None
+2017032540,未知商品032540,,,,,,1,2,2017-07-10 19:09:09,None,None,None,None
+2017032541,未知商品032540,,默认,,默认,,1,5,2017-07-10 19:09:09,None,None,None,None
+2017032801,217032801,,爱鲜蜂,,,,1,20,2017-07-10 19:09:09,None,None,None,None
+2017032802,201703282,,爱鲜蜂,,,,1,50,2017-07-10 19:09:09,None,None,None,None
+2017032803,2017032803,,爱鲜蜂,,,,1,70,2017-07-10 19:09:09,None,None,None,None
+2017032804,未知商品032804,,默认,,默认,,1,5,2017-07-10 19:09:09,None,None,None,None
+2017032805,未知商品032805,,默认,,默认,,1,8,2017-07-10 19:09:09,None,None,None,None
+2017032806,未知商品032806,,默认,,默认,,1,11,2017-07-10 19:09:09,None,None,None,None
+2017032832,werrtyu,,爱鲜蜂,,,,1,100,2017-07-10 19:09:09,None,None,None,None
+2581473690,未知商品7934,,默认,,默认,,1,2334,2017-07-10 19:09:09,None,None,None,None
+11111111111,怡宝饮用纯净水24瓶装555ml,555ml,怡宝,,瓶,,1,2,2017-07-10 19:09:09,None,None,None,None
+20117032542,未知商品032542,,默认,,默认,,1,8,2017-07-10 19:09:09,None,None,None,None
+20170322520,0320,,爱鲜蜂,,,,1,20,2017-07-10 19:09:09,None,None,None,None
+25803695809,老版01,,默认,,默认,,1,88,2017-07-10 19:09:09,None,None,None,None
+25855585588,简版,,爱鲜蜂,,,,1,20,2017-07-10 19:09:09,None,None,None,None
+047400197107,吉列锋速3突破纳米超薄3层刀片（一刀架2刀头）,1刀架2刀头,吉列锋,上海,个,,1,80,2017-07-10 19:09:09,None,None,None,None
+071603103795,TRIM耳挖勺EWR,1个,TRIM,北京,个,,1,19,2017-07-10 19:09:09,None,None,None,None
+071603103818,TRIM迷你睫毛夹3-9B,1个,TRIM,北京,个,,1,15,2017-07-10 19:09:09,None,None,None,None
+071603410008,TRIM指甲刀4-100B,1个,TRIM,北京,个,,1,19,2017-07-10 19:09:09,None,None,None,None
+071603529007,TRIM斜口眉夹5-29B,1个,TRIM,北京,个,,1,15,2017-07-10 19:09:09,None,None,None,None
+074570002023,哈根达斯香草味冰淇淋81g,81g,哈根达斯,法国,杯,,1,33,2017-07-10 19:09:09,None,None,None,None
+074570022021,哈根达斯草莓味冰淇淋81g,81g,哈根达斯,法国,杯,,1,33,2017-07-10 19:09:09,None,None,None,None
+077330170116,丹麦蓝罐牛油曲奇90g袋,90g,丹麦蓝罐,,袋,,1,11.5,2017-07-10 19:09:09,None,None,None,None
+078907450396,爱莎萝辣沙拉味玉米片85g,85g,爱莎萝,,袋,,1,3.8,2017-07-10 19:09:09,None,None,None,None
+078907450679,爱莎萝芝士墨西哥辣椒味玉米片85g,85g,爱莎萝,,袋,,1,6,2017-07-10 19:09:09,None,None,None,None
+082184090473,杰克丹尼威士忌700ml,700ml,杰克丹尼,进口,瓶,,1,268,2017-07-10 19:09:09,None,None,None,None
+082184090510,杰克丹尼威士忌375ml,375ml,杰克丹尼,进口,瓶,,1,138,2017-07-10 19:09:09,None,None,None,None
+084501446314,康元椰子奶油饼干200g,200g,康元,天津,包,,1,12.9,2017-07-10 19:09:09,None,None,None,None
+084501814311,康元提子饼200g,200g,康元,天津,包,,1,12.9,2017-07-10 19:09:09,None,None,None,None
+085000017449,大卫斯通加州霞多丽白葡萄酒750ml,750ml,大卫斯通,美国,瓶,,1,58,2017-07-10 19:09:09,None,None,None,None
+085000017456,大卫斯通加州赤霞珠红葡萄酒750ml,750ml,大卫斯通,美国,瓶,,1,59,2017-07-10 19:09:09,None,None,None,None
+096619032938,蜂蜜,,,,,,1,12,2017-07-10 19:09:09,None,None,None,None
+096619723829,KIRLAND ALMONDS,1.13kg,其他,广州,瓶,,1,28,2017-07-10 19:09:09,None,None,None,None
+096619767021,大米,None,None,None,None,,1,2,2017-07-10 19:09:09,None,None,None,None
+123258147369,简版,,爱鲜蜂,,,,1,20,2017-07-10 19:09:09,None,None,None,None
+123258369147,简版,,爱鲜蜂,,,,1,40,2017-07-10 19:09:09,None,None,None,None
+123258369148,简版,,爱鲜蜂,,,,1,70,2017-07-10 19:09:09,None,None,None,None
+135258078963,未知商品4850,,默认,,默认,,1,6,2017-07-10 19:09:09,None,None,None,None
+158888008800,老版,,默认,,默认,,1,8,2017-07-10 19:09:09,None,None,None,None
+200267014203,尊尼获加红方,750ml,其他,,瓶,,1,178,2017-07-10 19:09:09,None,None,None,None
+280586186167,五得利三星富强小麦粉5kg,5kg,五得利,,袋,,0,23.4,2017-07-10 19:09:09,None,None,None,None
+280801606894,五得利五星特精小麦粉5kg,5kg,五得利,,袋,,0,24.6,2017-07-10 19:09:09,None,None,None,None
+282879629797,五得利三星富强小麦粉10kg,10kg,五得利,,袋,,0,45,2017-07-10 19:09:09,None,None,None,None
+293892797253,五得利晶爽饺子王小麦粉5kg,5kg,五得利,,袋,,0,25.8,2017-07-10 19:09:09,None,None,None,None
+297464617785,五得利六星超精小麦粉10kg,10kg,五得利,,袋,,0,46.68,2017-07-10 19:09:09,None,None,None,None
+307650726001,五得利五星特精小麦粉10kg,10kg,五得利,,袋,,0,46.68,2017-07-10 19:09:09,None,None,None,None
+310119036860,博士伦水润清透隐形眼镜护理液120ml,120ml,博士伦,,瓶,,1,37,2017-07-10 19:09:09,None,None,None,None
+318407653926,五得利六星超精小麦粉5kg,5kg,五得利,,袋,,0,24.6,2017-07-10 19:09:09,None,None,None,None
+490193000734,春日井5连包什锦果子45g,45g,春日,,袋,,1,15,2017-07-10 19:09:09,None,None,None,None
+0691204010001,世家兰朵-醇香咖啡豆,1kg*6包,自有,,克,,1,1,2017-07-10 19:09:09,None,None,None,None
+0691204010002,雀巢全脂牛奶,1L*12,自有,,毫升,,1,1,2017-07-10 19:09:09,None,None,None,None
+0691204010003,1883果露蓝橘味糖浆,1L*6,自有,,毫升,,1,1,2017-07-10 19:09:09,None,None,None,None
+0691204010004,1883果露焦糖味糖浆,1L*6,自有,,毫升,,1,1,2017-07-10 19:09:09,None,None,None,None
+0691204010005,1883果露墨西多味糖浆,1L*6,自有,,毫升,,1,1,2017-07-10 19:09:09,None,None,None,None
+0691204010007,1883果露草莓味糖浆,1L*6,自有,,毫升,,1,1,2017-07-10 19:09:09,None,None,None,None
+0691204010009,1883果露香草味糖浆,1L*6,自有,,毫升,,1,1,2017-07-10 19:09:09,None,None,None,None
+0691204010010,吉尔德利黑巧克力酱,2.47kg*6,吉尔德利,,克,,1,1,2017-07-10 19:09:09,None,None,None,None
+0691204010012,吉尔德利巧克力冰沙粉,1.3kg*6,吉尔德利,,克,,1,1,2017-07-10 19:09:09,None,None,None,None
+0691204010013,吉尔德利白巧克力冰沙粉,1.3kg*6,吉尔德利,,克,,1,1,2017-07-10 19:09:09,None,None,None,None
+0691204010015,安德鲁椰子条酱,1kg*8,安德鲁,,包,,1,1,2017-07-10 19:09:09,None,None,None,None
+0691204010016,安德鲁荔枝芦荟条酱,1kg*8,安德鲁,,包,,1,1,2017-07-10 19:09:09,None,None,None,None
+0691204010019,安德鲁芒果条酱,1kg*8,安德鲁,,包,,1,1,2017-07-10 19:09:09,None,None,None,None
+0691204010021,安德鲁草莓条酱,1kg*8,安德鲁,,包,,1,1,2017-07-10 19:09:09,None,None,None,None
+1234567890147,老版,None,默认,None,默认,,1,34,2017-07-10 19:09:09,None,None,None,None
+1691234567890,惠付通专用热敏纸,4卷,惠付通,None,包,,0,3,2017-07-10 19:09:09,None,None,None,None
+3068320055008,Evian 依云矿泉水500ml,500ml,依云,法国,瓶,,1,11,2017-07-10 19:09:09,None,None,None,None
+3068320099651,依云矿泉水500ml瓶[],500ml,依云,,瓶,,1,11.5,2017-07-10 19:09:09,None,None,None,None
+3415581139181,哈根达斯夏威夷果仁冰淇淋81g,81g,哈根达斯,法国,杯,,1,33,2017-07-10 19:09:09,None,None,None,None
+3415581533187,哈根达斯比利时巧克力味冰淇淋81g,81g,哈根达斯,法国,杯,,1,33,2017-07-10 19:09:09,None,None,None,None
+3467990000927,科瑞斯曼波尔多红葡萄酒750ml替代为雷沃将军干红葡萄酒暂无,750ml,雷沃将军,,瓶,,1,35,2017-07-10 19:09:09,None,None,None,None
+3500610077951,法龙波尔多米歇尔罗兰干红葡萄酒750ml,750ml,法龙波尔多,,瓶,,1,158,2017-07-10 19:09:09,None,None,None,None
+3700206756271,elite发圈5627,1个,elite,北京,个,,1,18,2017-07-10 19:09:09,None,None,None,None
+3700206756288,elite发圈5628,1个,elite,北京,个,,1,25,2017-07-10 19:09:09,None,None,None,None
+3760165911838,法国莫泊桑赤霞珠干红750ml,750ml,莫泊桑,法国,瓶,,1,129,2017-07-10 19:09:09,None,None,None,None
+3760165911852,法国莫泊桑波尔多干红750ml,750ml,莫泊桑,法国,瓶,,1,188,2017-07-10 19:09:09,None,None,None,None
+3760165911890,莫泊桑法国干红葡萄酒750ml,750ml,莫泊桑,进口,瓶,,1,98,2017-07-10 19:09:09,None,None,None,None
+3760165911920,莫泊桑西拉干红,740ML,莫泊桑,,瓶,,1,118,2017-07-10 19:09:09,None,None,None,None
+3760165911937,法国莫泊桑尼姆之丘干红葡萄酒750ml,750ml,莫泊桑,,瓶,,1,88,2017-07-10 19:09:09,None,None,None,None
+4001187005020,黑森马蹄黑啤500ml,500ml,黑森马蹄,,听,,1,8.8,2017-07-10 19:09:09,None,None,None,None
+4001187005037,黑森马蹄白啤500ml,500ml,黑森马蹄,,听,,1,8.8,2017-07-10 19:09:09,None,None,None,None
+4005292002523,冰力克含片糖草莓15g盒,15g,冰力克,德国,盒,,1,14.9,2017-07-10 19:09:09,None,None,None,None
+4005292003162,冰力克果粉含片百香芒果味15g盒,15g,冰力克,德国,盒,,1,14.9,2017-07-10 19:09:09,None,None,None,None
+4005292654913,冰力克无糖含片糖西柚味15g,15g,冰力克,德国,克,,1,14.9,2017-07-10 19:09:09,None,None,None,None
+4005808828098,妮维雅精华爽身走珠液,50ml,妮维雅,,瓶,,1,32,2017-07-10 19:09:09,None,None,None,None
+4005808828180,妮维雅女士抑汗干爽舒适走珠液50ml,50ml,妮维雅,,瓶,,1,28,2017-07-10 19:09:09,None,None,None,None
+4005808828838,妮维雅男士海洋酷爽爽身气雾150ml,150ml,妮维雅,,瓶,,1,59,2017-07-10 19:09:09,None,None,None,None
+4007817211816,笔芯,None,None,None,None,,1,10,2017-07-10 19:09:09,None,None,None,None
+4008230328174,赛力特阿尔卑斯低脂纯牛奶250ml,250ml,其他,,瓶,,1,13.5,2017-07-10 19:09:09,None,None,None,None
+4008230329171,赛力特阿尔卑斯低脂纯牛奶500ml,500ml,其他,,瓶,,1,22.5,2017-07-10 19:09:09,None,None,None,None
+4008230368170,赛力特阿尔卑斯全脂纯牛奶250ml,250ml,其他,,瓶,,1,15,2017-07-10 19:09:09,None,None,None,None
+4008230368477,赛力特阿尔卑斯有机全脂牛奶250ml,250ml,其他,,瓶,,1,16.5,2017-07-10 19:09:09,None,None,None,None
+4008230369177,赛力特阿尔卑斯全脂纯牛奶500ml,500ml,其他,,瓶,,1,24.8,2017-07-10 19:09:09,None,None,None,None
+4008230369474,赛力特阿尔卑斯有机全脂纯牛奶,500ml,其他,德国,瓶,,1,27.5,2017-07-10 19:09:09,None,None,None,None
+4008230417175,赛力特阿尔卑斯巧克力味牛奶250ml,250ml,其他,,瓶,,1,14.5,2017-07-10 19:09:09,None,None,None,None
+4008230429178,赛力特阿尔卑斯巧克力牛奶500ml,500ml,其他,,瓶,,1,22.5,2017-07-10 19:09:09,None,None,None,None
+4008230449176,赛力特阿尔卑斯香草牛奶500ml,500ml,其他,,瓶,,1,24.5,2017-07-10 19:09:09,None,None,None,None
+4008230456174,赛力特阿尔卑斯香草味牛奶250ml,250ml,其他,,瓶,,1,15,2017-07-10 19:09:09,None,None,None,None
+4008230469174,赛力特阿尔卑斯香蕉味牛奶500ml,500ml,其他,,瓶,,1,27.5,2017-07-10 19:09:09,None,None,None,None
+4008230476172,赛力特阿尔卑斯香蕉味牛奶250ml,250ml,其他,,瓶,,1,15,2017-07-10 19:09:09,None,None,None,None
+4017100101700,莱布尼兹迷你黄油饼干 100g,100g,莱布尼兹,,袋,,1,16.9,2017-07-10 19:09:09,None,None,None,None
+4017100124112,百乐顺农场动物型燕麦饼干100g,100g,百乐顺,,袋,,1,15.6,2017-07-10 19:09:09,None,None,None,None
+4017100373114,莱布尼兹牛奶巧克力迷你黄油饼干 100g,100g,莱布尼兹,,袋,,1,16.9,2017-07-10 19:09:09,None,None,None,None
+4022679121745,果健康综合型泡腾片90g支[],90g,果健康,,支,,1,25,2017-07-10 19:09:09,None,None,None,None
+4022679121783,果健康均衡型泡腾片甜橙味90g支[90g],90g,果健康,,支,,1,25,2017-07-10 19:09:09,None,None,None,None
+4051912105051,德国领鹰白啤罐装500ml,500ml,德国领鹰,德国,瓶,,1,8,2017-07-10 19:09:09,None,None,None,None
+4053400288420,德国大奔黄啤酒500ml,500ml*24,德国大奔,德国,罐,,1,12.5,2017-07-10 19:09:09,None,None,None,None
+4053400288437,德国大奔黑啤酒500ml,500ml*24,德国大奔,德国,罐,,1,12.5,2017-07-10 19:09:09,None,None,None,None
+4547691439628,冈本OK避孕套0.03白金超薄 3只装,3只,冈本,,盒,,1,48,2017-07-10 19:09:09,None,None,None,None
+4547691656148,冈本OK避孕套0.03白金超薄 6只装,6只,冈本,,盒,,1,85.8,2017-07-10 19:09:09,None,None,None,None
+4547691676757,冈本OK避孕套0.03黄金贴身超薄6只装,6只,冈本,,盒,,1,89,2017-07-10 19:09:09,None,None,None,None
+4547691677877,冈本OK避孕套0.03黄金贴身超薄2只装,2只,冈本,,盒,,1,34.5,2017-07-10 19:09:09,None,None,None,None
+4600080431075,爱莲巧牛奶味饼干190g袋,190g,爱莲巧,,袋,,1,9.9,2017-07-10 19:09:09,None,None,None,None
+4600080431082,爱莲巧牛奶巧克力味饼干190g袋,190g,爱莲巧,,袋,,1,9.9,2017-07-10 19:09:09,None,None,None,None
+4600300082537,爱莲巧扁桃仁牛奶巧克力100g,100g,爱莲巧,,块,,1,13.8,2017-07-10 19:09:09,None,None,None,None
+4603955002240,巴巴耶夫55%乌干达可可豆90g,90g,巴巴耶夫,,袋,,1,13,2017-07-10 19:09:09,None,None,None,None
+4603955002257,巴巴耶夫55%科特迪瓦可可豆90g,90g,巴巴耶夫,,袋,,1,13,2017-07-10 19:09:09,None,None,None,None
+4603955102254,巴巴耶夫扁桃仁巧克力,90g,巴巴耶夫,,块,,1,15,2017-07-10 19:09:09,None,None,None,None
+4607117892090,爱莲巧榛仁和葡萄干巧克力100g,100g,爱莲巧,,块,,1,13.5,2017-07-10 19:09:09,None,None,None,None
+4607117892113,爱莲巧榛仁牛奶巧克力100g,100g,爱莲巧,,块,,1,13.5,2017-07-10 19:09:09,None,None,None,None
+4710085203109,伯朗咖啡,,默认,,默认,,1,7.5,2017-07-10 19:09:09,None,None,None,None
+4710176013143,1111,,,,,,1,0,2017-07-10 19:09:09,None,None,None,None
+4710176013235,玉黍叔,,,,,,1,20,2017-07-10 19:09:09,None,None,None,None
+4710199037010,张君雅小妹妹和风鸡汁拉面条饼65g,65g,张君雅小妹妹,,袋,,1,9.5,2017-07-10 19:09:09,None,None,None,None
+4710199080566,张君雅小妹妹五香海苔休闲丸子80g,80g,张君雅小妹妹,台湾,袋,,1,9.5,2017-07-10 19:09:09,None,None,None,None
+4710199080597,张君雅小妹妹酱烧虾拉面条饼65g,65g,张君雅小妹妹,台湾,袋,,1,9.5,2017-07-10 19:09:09,None,None,None,None
+4710199085509,张君雅小妹妹碳烤鸡汁点心面100g,100g,张君雅,台湾,袋,,1,9.5,2017-07-10 19:09:09,None,None,None,None
+4710199085707,张君雅小妹妹日式串烧休闲丸子,80g[,张君雅,台湾,袋,,1,9.5,2017-07-10 19:09:09,None,None,None,None
+4710199086506,张君雅巧克力甜甜圈45g,45g,张君雅,台湾,袋,,1,9.5,2017-07-10 19:09:09,None,None,None,None
+4710199086704,张君雅小妹妹捏碎面袋装40g,40g,张君雅,台湾,袋,,1,4.8,2017-07-10 19:09:09,None,None,None,None
+4710199087701,张君雅小妹妹墨西哥辣鸡点心面78g,78g,张君雅,台湾,袋,,1,9.5,2017-07-10 19:09:09,None,None,None,None
+4710467112067,自然之颜蔬菜苏打饼干140g,140g,自然之颜,,袋,,1,16.8,2017-07-10 19:09:09,None,None,None,None
+4710543000325,多力多滋美式辣鸡翅味玉米片198.4g袋,198.4g,多力多滋,,袋,,1,27.8,2017-07-10 19:09:09,None,None,None,None
+4710543613501,多力多滋超浓缩芝士味玉米片65g,65g,多力多滋,,袋,,1,11.8,2017-07-10 19:09:09,None,None,None,None
+4710543617509,多力多滋超浓芝士味玉米片198.4g袋,198.4g,多力多滋,,袋,,1,27.8,2017-07-10 19:09:09,None,None,None,None
+4710944700114,台湾统一MAX-Q无糖口香糖柠檬味54g,54g,Papa,,瓶,,1,9,2017-07-10 19:09:09,None,None,None,None
+4710944700121,台湾统一MAX-Q无糖口香糖草莓味54g,54g,Papa,,瓶,,1,9,2017-07-10 19:09:09,None,None,None,None
+4710944700138,台湾统一MAX-Q无糖口香糖葡萄味54g,54g,Papa,,瓶,,1,9,2017-07-10 19:09:09,None,None,None,None
+4710944700602,台湾统一MAX-Q无糖口香糖清凉薄荷味54g,54g,台湾统一MAX-Q,,瓶,,1,9,2017-07-10 19:09:09,None,None,None,None
+4711931020406,皇族卷心麻薯抹茶红豆味150g盒,150g,皇族,,盒,,1,17.9,2017-07-10 19:09:09,None,None,None,None
+4711931020413,皇族卷心麻薯芋头牛奶味150g盒,150g,皇族,,盒,,1,17.9,2017-07-10 19:09:09,None,None,None,None
+4712832449037,御之味大饼干牛乳味175g,175g,AJI,,盒,,1,5.5,2017-07-10 19:09:09,None,None,None,None
+4713507006067,惊奇脆片饼干起士200g,200g,AJI,,袋,,1,12,2017-07-10 19:09:09,None,None,None,None
+4713507007057,惊奇脆片饼干蔬菜味200g,200g,AJI,,袋,,1,12,2017-07-10 19:09:09,None,None,None,None
+4713507007118,惊奇脆片饼干泡菜味200g,200g,AJI,,袋,,1,12,2017-07-10 19:09:09,None,None,None,None
+4713507016585,Hamu-水蜜桃汁饮料490ml,490ml,Hamu,,瓶,,1,9,2017-07-10 19:09:09,None,None,None,None
+4713507016592,Hamu-红番石榴汁(红芭乐汁饮料)490ml,490ml,Hamu,,瓶,,1,9,2017-07-10 19:09:09,None,None,None,None
+4713507023743,惊奇脆片饼干蜂蜜牛油味200g,200g,AJI,,袋,,1,9.9,2017-07-10 19:09:09,None,None,None,None
+4714221811227,自然素材美味黑糖饼干105g,105g,自然素材,台湾,袋,,1,15.5,2017-07-10 19:09:09,None,None,None,None
+4714221811272,自然素材黑糖格子饼干90g,90g,自然素材,台湾,袋,,1,14.8,2017-07-10 19:09:09,None,None,None,None
+4714221812408,自然素材牛奶格子饼干90g,90g,自然素材,台湾,袋,,1,14.8,2017-07-10 19:09:09,None,None,None,None
+4716609076389,秀逗香浓草莓味酸糖50g袋[],50g,秀逗,,袋,,1,6.8,2017-07-10 19:09:09,None,None,None,None
+4753072890050,卢凌逸女士防紫外线手套,副,卢凌逸,,双,,1,15,2017-07-10 19:09:09,None,None,None,None
+4753072890074,卢凌逸女士防紫外线防晒工艺手套,1副,卢凌逸,,副,,1,13,2017-07-10 19:09:09,None,None,None,None
+4800888184306,舒耐男士抑汗清新走珠劲速狂飙40ml,40ml,舒耐,,瓶,,1,29,2017-07-10 19:09:09,None,None,None,None
+4891028164456,维他柠檬茶250ml盒,250ml,维他,香港,盒,,1,3,2017-07-10 19:09:09,None,None,None,None
+4891028705949,维他柠檬茶500ml,500ml,维他,香港,瓶,,1,7,2017-07-10 19:09:09,None,None,None,None
+4891028706656,维他柠檬茶310ml,330ML,维他,香港,罐,,1,4,2017-07-10 19:09:09,None,None,None,None
+4891214598140,自然派炭烧鱿鱼丝50g袋,55g,自然派,,袋,,1,14.5,2017-07-10 19:09:09,None,None,None,None
+4891338000918,黑人双重薄荷 牙膏 225g,225g,黑人,,支,,1,18.5,2017-07-10 19:09:09,None,None,None,None
+4891338000932,黑人双重薄荷牙膏120g,120g,黑人,中山,支,,1,14,2017-07-10 19:09:09,None,None,None,None
+4891338005067,黑人升级细丝软毛旅行套装,1套,黑人,中山,套,,1,17,2017-07-10 19:09:09,None,None,None,None
+4891338005692,黑人牙膏双重薄荷牙膏90g,90g,黑人,中山,盒,,1,9,2017-07-10 19:09:09,None,None,None,None
+4891338025416,黑人牙膏超白竹炭深洁牙膏90g,90g,黑人,中山,个,,1,10,2017-07-10 19:09:09,None,None,None,None
+4891599331288,加多宝金罐310ml24罐装,310ml,加多宝,,罐,,1,5,2017-07-10 19:09:09,None,None,None,None
+4891599366808,加多宝瓶装500ml,500ml,加多宝,,瓶,,1,5,2017-07-10 19:09:09,None,None,None,None
+4893333786965,时选沙爹牛肉脯80g,80g,时选,香港,袋,,1,23.5,2017-07-10 19:09:09,None,None,None,None
+4893333786972,时选沙爹猪肉脯80g,80g,时选,香港,袋,,1,23.5,2017-07-10 19:09:09,None,None,None,None
+4894243202125,珮氏小蕃茄户外香薰贴12片,12片,珮氏,,盒,,1,39,2017-07-10 19:09:09,None,None,None,None
+4894243202279,珮氏驱蚊戶外香薰贴6片裝(Disney版),6片裝,珮氏,,盒,,1,26,2017-07-10 19:09:09,None,None,None,None
+4894243202286,珮氏小番茄香薰喷雾30ml,30ml,珮氏,,瓶,,1,26,2017-07-10 19:09:09,None,None,None,None
+4894243202323,珮氏小番茄防蚊手环2条装,2条装,珮氏,,个,,1,39,2017-07-10 19:09:09,None,None,None,None
+4894375002297,Aji橘子柠檬味威化夹心饼干150g,150g,AJI,,袋,,1,8.5,2017-07-10 19:09:09,None,None,None,None
+4894375002310,Aji香草牛奶味威化夹心饼干150g,150g,AJI,,袋,,1,8.5,2017-07-10 19:09:09,None,None,None,None
+4894375007711,Aji原味麦胚饼干146g,146g,AJI,,盒,,1,9.5,2017-07-10 19:09:09,None,None,None,None
+4897022620301,京都念慈菴金桔柠檬糖60g盒,60g*12,念慈庵,泰国,盒,,1,22.5,2017-07-10 19:09:09,None,None,None,None
+4897022620318,京都念慈菴乌梅糖60g盒,60g*12,念慈庵,泰国,盒,,1,22.5,2017-07-10 19:09:09,None,None,None,None
+4897028370620,壹格牌黑糖沙琪玛800g,800g,壹格,,袋,,1,29,2017-07-10 19:09:09,None,None,None,None
+4897042860329,时选葡挞饼（牛奶味）136g,136g,时选,,袋,,1,16.8,2017-07-10 19:09:09,None,None,None,None
+4897042860336,时选葡挞饼（蓝莓味）136g,136g,时选,,袋,,1,16.8,2017-07-10 19:09:09,None,None,None,None
+4897043061121,U100石头型糖果酸奶味70g,70g,U100,香港,袋,,1,9.5,2017-07-10 19:09:09,None,None,None,None
+4897043063019,U100牌无花果干220克,220g,U100,,袋,,1,24.8,2017-07-10 19:09:09,None,None,None,None
+4897043063118,U100牌蔓越莓干55g,55g,U100,,克,,1,9.9,2017-07-10 19:09:09,None,None,None,None
+4897053394866,HELLO KITTY香口珠22g盒,22g,其他,,盒,,1,5.5,2017-07-10 19:09:09,None,None,None,None
+4897055394866,HELLO KITTY香口珠蓝莓味22g,22g,其他,,盒,,1,5.5,2017-07-10 19:09:09,None,None,None,None
+4897055870179,卡力多迷你果粒饼混合味200g,200g,卡力多,,袋,,1,15,2017-07-10 19:09:09,None,None,None,None
+4897055872234,卡力多迷你果粒饼（杏子+苹果）200g史努比曲奇卡通,200g,NISSIN日清思高,,袋,,1,15,2017-07-10 19:09:09,None,None,None,None
+4899888154013,太古纯正方糖45.4,45.4g,太古,,袋,,1,15,2017-07-10 19:09:09,None,None,None,None
+4901005104044,格力高牛奶味可珑卷56g,56g,格力高,,盒,,1,15,2017-07-10 19:09:09,None,None,None,None
+4901005530553,格力高巧克力味可珑卷56g,56g,格力高,,盒,,1,15,2017-07-10 19:09:09,None,None,None,None
+4901005530560,格力高咖啡味可珑卷13.5g,13.5g,格力高,,盒,,1,15,2017-07-10 19:09:09,None,None,None,None
+4901301245496,花王腹部蒸汽热敷贴（5片）,5p,花王,,包,,1,30,2017-07-10 19:09:09,None,None,None,None
+4901301250797,花王湿巾2（袋）,袋,花王,,袋,,1,35,2017-07-10 19:09:09,None,None,None,None
+4901301257970,日本花王深层清洁软毛牙刷31号,个,花王,,个,,1,13.5,2017-07-10 19:09:09,None,None,None,None
+4901301262899,日本花王乐而雅卫生巾F绵柔护翼夜用34cm*9片,9p,花王,,包,,1,30,2017-07-10 19:09:09,None,None,None,None
+4901301265005,日本花王乐而雅卫生巾F绵柔护翼日用25cmX18片,18p,花王,,包,,1,30,2017-07-10 19:09:09,None,None,None,None
+4901301288530,日本花王柠檬酸除菌洗洁精绿茶香型240ml,240ml,花王,,包,,1,15,2017-07-10 19:09:09,None,None,None,None
+4901301288561,日本花王除菌洗洁精240ml,240ml,花王,,包,,1,15,2017-07-10 19:09:09,None,None,None,None
+4901301289421,花王泡泡洗手液,瓶,花王,,瓶,,1,30,2017-07-10 19:09:09,None,None,None,None
+4901301289438,花王泡泡洗手液（果香）,瓶,花王,,瓶,,1,30,2017-07-10 19:09:09,None,None,None,None
+4901301306623,花王Attack抗菌洗衣液,瓶,花王,,瓶,,1,40,2017-07-10 19:09:09,None,None,None,None
+4901301755032,花王洁霸泡沫洗衣喷剂,瓶,花王,,瓶,,1,35,2017-07-10 19:09:09,None,None,None,None
+4901326011339,春日井油皮花生仁77g,77g,春日,,袋,,1,15,2017-07-10 19:09:09,None,None,None,None
+4901326012325,春日井膨化椒盐味蚕豆91g,91g,春日,,袋,,1,15,2017-07-10 19:09:09,None,None,None,None
+4901326013261,春日井膨化青豆98g,98g,春日,,袋,,1,30,2017-07-10 19:09:09,None,None,None,None
+4901326013278,春日井咸味化花生仁98g,98g,春日,,袋,,1,15,2017-07-10 19:09:09,None,None,None,None
+4901326013285,春日井章鱼味膨化花生仁85g,85g,春日,,袋,,1,15,2017-07-10 19:09:09,None,None,None,None
+4901326013292,春日井虾味油皮花生仁85g,85g,春日,,袋,,1,15,2017-07-10 19:09:09,None,None,None,None
+4901326013315,春日井什锦豆脆果75g,75g,春日,,袋,,1,15,2017-07-10 19:09:09,None,None,None,None
+4901326013322,春日井膨化芥末味青豆80g,80g,春日,,袋,,1,15,2017-07-10 19:09:09,None,None,None,None
+4901326013339,春日井油皮花生仁（膨化食品）77克,77g,春日井油皮,,袋,,1,15,2017-07-10 19:09:09,None,None,None,None
+4901326013346,豆菓子15克,15g,豆菓子,,袋,,1,15,2017-07-10 19:09:09,None,None,None,None
+4901326013353,春日井5连包什锦果仁脆饼45g,45g,春日,,袋,,1,15,2017-07-10 19:09:09,None,None,None,None
+4901360287673,波路梦听装什锦巧克力味饼干312g（60枚）,312g,波路梦,,袋,,1,45,2017-07-10 19:09:09,None,None,None,None
+4901360307722,波路梦咳咳味饼干93g,93g,波路梦,,袋,,1,15,2017-07-10 19:09:09,None,None,None,None
+4901360312818,波路梦黄油味饼干52g,52g,波路梦,,块,,1,30,2017-07-10 19:09:09,None,None,None,None
+4901525601405,牛牌美肤沐浴乳（优雅花香）600ml,600ml,牛牌,,瓶,,1,79,2017-07-10 19:09:09,None,None,None,None
+4901525601603,牛牌美肤沐浴露甜蜜果香600ml,600ml,牛牌,,瓶,,1,79,2017-07-10 19:09:09,None,None,None,None
+4901616008847,皓乐齿 净澈气息口香喷剂 清凉薄荷 6ml,6ml,皓乐齿,,支,,1,30,2017-07-10 19:09:09,None,None,None,None
+4901620147129,NISSIN日清思高 巧克力味威化饼干 51g 日本进口,51g,SKYY,,盒,,1,15,2017-07-10 19:09:09,None,None,None,None
+4901726010969,斋宫荞麦面干380g,380g,斋宫,,袋,,1,30,2017-07-10 19:09:09,None,None,None,None
+4901726013571,斋宫山芋荞麦生干面320g,320g,斋宫,,袋,,1,30,2017-07-10 19:09:09,None,None,None,None
+4901818415757,杉本屋什锦味羊羹（豆沙琼脂糕）360g（40g*9）,360g,杉本屋,,袋,,1,30,2017-07-10 19:09:09,None,None,None,None
+4901818416402,国外糕点,,默认,,默认,,1,5,2017-07-10 19:09:09,None,None,None,None
+4901818441565,山本屋小仓羊羹（豆沙琼脂糕）150g,150g,山本,,袋,,1,15,2017-07-10 19:09:09,None,None,None,None
+4901818444610,山本屋红薯羊羹150g,150g,山本屋,,袋,,1,15,2017-07-10 19:09:09,None,None,None,None
+4901830155914,三立平家酥饼（蛋糕）120克（15g*8）,120g,三立,,袋,,1,30,2017-07-10 19:09:09,None,None,None,None
+4901830352801,三立抹茶味盒装饼干卷91g,91g,三立,,袋,,1,15,2017-07-10 19:09:09,None,None,None,None
+4901872818310,资生堂清柔泡沫洁面乳120g,120g,资生堂,,支,,1,48,2017-07-10 19:09:09,None,None,None,None
+4901872869114,外国洗面奶,,默认,,默认,,1,6,2017-07-10 19:09:09,None,None,None,None
+4901930006260,天六奶油味大花生180g,180g,天六,,袋,,1,30,2017-07-10 19:09:09,None,None,None,None
+4901930007342,天六奶油味大花生180g（30克×6）,180g,天六,,袋,,1,30,2017-07-10 19:09:09,None,None,None,None
+4901930022413,天六膨化柿籽型花生米饼360g,360g,天六,,袋,,1,30,2017-07-10 19:09:09,None,None,None,None
+4901930086286,天六什锦小吃59.8g,59.8g,天六,,袋,,1,30,2017-07-10 19:09:09,None,None,None,None
+4902088311091,自然味甜饼干110g,110g,孜然味,,袋,,1,30,2017-07-10 19:09:09,None,None,None,None
+4902088311107,自然味多味夹心饼干103g,103g,自然味,,袋,,1,15,2017-07-10 19:09:09,None,None,None,None
+4902156070233,七尾威化饼干153g（16块）,153g,七尾,,袋,,1,30,2017-07-10 19:09:09,None,None,None,None
+4902430551526,PG花香洗衣液850克,850g,宝洁,,袋,,1,30,2017-07-10 19:09:09,None,None,None,None
+4902450141554,本吉油炸膨化小脆球90g,90g,本吉,,袋,,1,15,2017-07-10 19:09:09,None,None,None,None
+4902450141653,本吉油炸膨化小脆球90克,90g,本吉,,袋,,1,15,2017-07-10 19:09:09,None,None,None,None
+4902450152598,本吉纲扬麦脆条80g,80g,本吉,,袋,,1,15,2017-07-10 19:09:09,None,None,None,None
+4902450177454,木吉鲜味膨化米饼条92g,92g,木吉,,袋,,1,30,2017-07-10 19:09:09,None,None,None,None
+4902450177713,本吉风味膨化米饼（膨化食品）92g（23g*4）,92g,本吉,,袋,,1,30,2017-07-10 19:09:09,None,None,None,None
+4902450230197,本吉香脆米饼140g,140g,本吉,,袋,,1,30,2017-07-10 19:09:09,None,None,None,None
+4902450443092,本吉膨化脆米条（膨化食品）104（26g*4）,104g,本吉,,袋,,1,30,2017-07-10 19:09:09,None,None,None,None
+4902450455156,本吉5包装酱油味炸米饼125g,125g,本吉,,袋,,1,30,2017-07-10 19:09:09,None,None,None,None
+4902450488154,本吉8小包膨化炸米饼200克,200g,本吉,,袋,,1,35,2017-07-10 19:09:09,None,None,None,None
+4902458001041,北陆芝麻味饼干250g,250g,北陆,,袋,,1,30,2017-07-10 19:09:09,None,None,None,None
+4902458001089,北陆大袋手指型饼干280g,280g,北陆,,袋,,1,30,2017-07-10 19:09:09,None,None,None,None
+4902458001133,北陆杂型消化饼干140g,140g,北陆,,袋,,1,15,2017-07-10 19:09:09,None,None,None,None
+4902458001164,北陆脆圆饼干140g,140g,北陆,,袋,,1,15,2017-07-10 19:09:09,None,None,None,None
+4902494008004,哈达原味波子汽水（碳酸饮料）200ml,200ml,哈达,,瓶,,1,12.8,2017-07-10 19:09:09,None,None,None,None
+4902494090153,哈达草莓味波子汽水（碳酸饮料）200ml,200ml,哈达,,瓶,,1,12.8,2017-07-10 19:09:09,None,None,None,None
+4902494090177,哈达哈密瓜味波子汽水（碳酸饮料）200ml,200ml,哈达,,瓶,,1,12.8,2017-07-10 19:09:09,None,None,None,None
+4902494110028,哈达菠萝味波子汽水（碳酸饮料）200ml,200ml,哈达,,瓶,,1,12.8,2017-07-10 19:09:09,None,None,None,None
+4902494110042,哈达蓝莓味波子汽水（碳酸饮料）200ml,200ml,哈达,,瓶,,1,12.8,2017-07-10 19:09:09,None,None,None,None
+4902494140025,哈达香橙味波子汽水（碳酸饮料）200ml,200ml,哈达,,瓶,,1,12.8,2017-07-10 19:09:09,None,None,None,None
+4902501017678,吉田巧克力50g（抹茶味）,50g,古田,,块,,1,15,2017-07-10 19:09:09,None,None,None,None
+4902501017692,吉田巧克力50g,50g,古田,,块,,1,15,2017-07-10 19:09:09,None,None,None,None
+4902501017708,吉田巧克力（草莓味）,块,古田,,块,,1,30,2017-07-10 19:09:09,None,None,None,None
+4902501623596,吉田巧克力夹心饼干87g,87g,古田,,块,,1,30,2017-07-10 19:09:09,None,None,None,None
+4902501623602,吉田抹茶夹心饼干85g（每包10枚）,85g,古田,,包,,1,30,2017-07-10 19:09:09,None,None,None,None
+4902501623619,吉田牛奶饼干77g（每包12枚）,77g,古田,,包,,1,30,2017-07-10 19:09:09,None,None,None,None
+4902501653661,古田苹果味蝴蝶酥52g,52g,古田,,袋,,1,15,2017-07-10 19:09:09,None,None,None,None
+4902501653685,古田蝴蝶酥52g,52g,古田,,袋,,1,15,2017-07-10 19:09:09,None,None,None,None
+4902510020102,杰士邦ZERO零感超薄3片装,3只,ZERO,,盒,,1,13,2017-07-10 19:09:09,None,None,None,None
+4902510020133,ZERO零感超润3片装,3只,ZERO,,盒,,0,16,2017-07-10 19:09:09,None,None,None,None
+4902510106370,ZERO零感超薄12片装,12只,ZERO,,盒,,0,42,2017-07-10 19:09:09,None,None,None,None
+4902510151110,zero零感极薄极润12片装,12只,ZERO,,盒,,1,70,2017-07-10 19:09:09,None,None,None,None
+4903111307340,苏菲卫生巾日用温柔肌护垫175mm34片,34片,苏菲,,包,,1,45,2017-07-10 19:09:09,None,None,None,None
+4903111363407,苏菲卫生巾温柔肌敏感肌日用纤巧230mm*20片,230mm*20片,苏菲,,包,,1,45,2017-07-10 19:09:09,None,None,None,None
+4903111381135,苏菲卫生巾夜用温柔肌330mm 9片,9片,苏菲,,包,,1,45,2017-07-10 19:09:09,None,None,None,None
+4903301017134,狮王儿童牙刷（1.5-5岁）,支,狮王,,支,,1,15,2017-07-10 19:09:09,None,None,None,None
+4903301093565,LION迪斯尼儿童牙膏 葡萄味,50g,迪斯尼,,支,,1,15,2017-07-10 19:09:09,None,None,None,None
+4903301099222,Lion 迪斯尼儿童牙膏（柑橘味）,个,迪斯尼,,袋,,1,15,2017-07-10 19:09:09,None,None,None,None
+4903301142706,狮王成人牙刷,把,狮王,,把,,1,30,2017-07-10 19:09:09,None,None,None,None
+4903301162919,狮王儿童牙刷（6-12岁）,支,狮王,,支,,1,8,2017-07-10 19:09:09,None,None,None,None
+4903301171898,西本狮王特效除烟渍牙膏150g,150g,狮王,,个,,1,35,2017-07-10 19:09:09,None,None,None,None
+4903301176879,狮王LION药用泡泡杀菌洁净洗手液,瓶,狮王,,瓶,,1,30,2017-07-10 19:09:09,None,None,None,None
+4903301186403,狮王牙膏150克,150g,狮王,,个,,1,30,2017-07-10 19:09:09,None,None,None,None
+4903301186427,狮王粒子洁净立式牙膏 自然薄荷,支,狮王,,支,,1,20,2017-07-10 19:09:09,None,None,None,None
+4903301186441,狮王粒子洁净立式牙膏 薄荷,支,狮王,,支,,1,20,2017-07-10 19:09:09,None,None,None,None
+4903301186458,狮王粒子洁净立式牙膏 超级薄荷,支,狮王,,支,,1,20,2017-07-10 19:09:09,None,None,None,None
+4903367000019,蔬果，食期调理器具洗液,个,蔬果，食期调理器具洗液,,个,,1,15,2017-07-10 19:09:09,None,None,None,None
+4903367301758,蔬果，食期调理器具洗液（西柚味）,个,蔬果，食期调理器具洗液（西柚味）,,个,,1,15,2017-07-10 19:09:09,None,None,None,None
+4905009724024,爱丽思30%酒精除菌湿巾10片装,10片装,爱丽思,,包,,1,3,2017-07-10 19:09:09,None,None,None,None
+4905009758890,爱丽思30%酒精除菌湿巾10片,包,爱丽思,,包,,1,4.5,2017-07-10 19:09:09,None,None,None,None
+4909978610111,丝蓓绮炫魅滋养洗发露550ml,550ml,丝蓓绮,,瓶,,1,108,2017-07-10 19:09:09,None,None,None,None
+4909978610180,丝蓓绮炫魅复活洗发露550ml,550ml,丝蓓绮,,瓶,,1,108,2017-07-10 19:09:09,None,None,None,None
+4909978610197,丝蓓绮炫魅复活护发素,550ml,丝蓓绮,,瓶,,1,108,2017-07-10 19:09:09,None,None,None,None
+4967576123310,爱丽思防霾口罩,个,爱丽思,,袋,,1,9.8,2017-07-10 19:09:09,None,None,None,None
+4967576123341,爱丽思防霾口罩,个,爱丽思,,袋,,1,9.8,2017-07-10 19:09:09,None,None,None,None
+4972304292039,对虾盐味仙贝45g,45g,对虾,,袋,,1,15,2017-07-10 19:09:09,None,None,None,None
+4976861004159,厨房去污洁净湿巾,包,湿纸巾,,包,,1,14.5,2017-07-10 19:09:09,None,None,None,None
+4976861004166,服部餐桌客厅清洁湿巾,包,湿纸巾,,包,,1,15,2017-07-10 19:09:09,None,None,None,None
+4977852223276,三浦巧克力酥口饼干（75g）30枚,75g,三浦,,袋,,1,15,2017-07-10 19:09:09,None,None,None,None
+5000159440103,德芙巧丝威化巧克力袋22.5g,22.5g,德芙,北京,袋,,1,3,2017-07-10 19:09:09,None,None,None,None
+5000267024202,尊尼获加黑方威士忌700ml,700ml,尊尼获加,进口,瓶,,1,280,2017-07-10 19:09:09,None,None,None,None
+5000299284629,芝华士12年新款700ml,700ml,芝华士,进口,瓶,,1,288,2017-07-10 19:09:09,None,None,None,None
+5000299284643,3号芝华士12年 200ml,200ml,芝华士,,瓶,,1,79,2017-07-10 19:09:09,None,None,None,None
+5000299284674,芝华士12年酒伴50ml,50ml,百龄坛,,瓶,,1,22,2017-07-10 19:09:09,None,None,None,None
+5010106113073,百龄坛特酿苏格兰威士忌750ml,750ml,百龄坛,,瓶,,1,126,2017-07-10 19:09:09,None,None,None,None
+5010106113493,百龄坛特酿苏格兰威士忌200ml,200ml,百龄坛,,瓶,,1,58,2017-07-10 19:09:09,None,None,None,None
+5011013100132,百利甜力娇酒750ml,750ml,百利,,瓶,,1,168,2017-07-10 19:09:09,None,None,None,None
+5011013100217,百利甜酒375ml替代为百利甜酒200ml,375ml,麦格根,,瓶,,1,55,2017-07-10 19:09:09,None,None,None,None
+5052197017168,杜蕾斯避孕套紧型装3只装,1盒,杜蕾斯,青岛,盒,,1,15.5,2017-07-10 19:09:09,None,None,None,None
+5052197017199,杜蕾斯避孕套紧型装12只装,1盒,杜蕾斯,青岛,盒,,1,50.5,2017-07-10 19:09:09,None,None,None,None
+08000500042793,费列罗t8,100g,费列罗,,盒,,1,45,2017-07-10 19:09:09,None,None,None,None
+12345678902580,简版,,爱鲜蜂,,,,1,780,2017-07-10 19:09:09,None,None,None,None
+16901404321504,扇牌超洁净力透明皂750g,750g,扇牌,,块,,0,16,2017-07-10 19:09:09,None,None,None,None
+16902890893957,双汇汇享来蒸煮肉肠28g,28g,双汇,,根,,1,0.312,2017-07-10 19:09:09,None,None,None,None
+16920202888869,红牛250ml,250ml,红牛,,瓶,,1,12.5,2017-07-10 19:09:09,None,None,None,None
+12588888888888888888,简版,,爱鲜蜂,,,,1,20,2017-07-10 19:09:09,None,None,None,None
+014779000888 ,日本眉机                      ,,,,个  ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000002604,丁丁孜然酱228G/瓶             ,228G                ,,,瓶      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000053262,TCL一开五孔插座/个            ,一开                ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000059448,TCLK40大板三开开关/个         ,三开                ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000077640,善威热疗足浴按摩机SW-306/台   ,SW-306              ,,,台      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000082736,小叮咚童车192#/辆             ,192#                ,,,台      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000088608,黑色旋风光电键盘套件/套       ,                    ,,,套      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000089698,双飞燕无线光电鼠标Rp-1519/只  ,Rp-1519             ,,,只      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000105732,打印电缆线3米/根              ,3米                 ,,,根      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000145400,欧凡OV 510MV耳脉/个           ,510MV               ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000150046,南孚碱性电池7号4粒卡/板       ,7号                 ,,,板      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000312710,捷佳泳镜-5/付                 ,-5                  ,,,付      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000383864,英雄385钢笔/支                ,385                 ,,,支      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000384540,英雄508钢笔/支                ,508                 ,,,支      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000400066,二联收据/本                   ,                    ,,,本      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000432500,园艺木柄小耙子/把             ,                    ,,,把      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000455684,16K作业本/本                  ,16K                 ,,,本      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000511632,脸盆/菜盆40下水堵头/个        ,40                  ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000527954,凯达电筒灯珠3.8V/只           ,3.8V                ,,,只      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000540588,标语纸A/张                    ,                    ,,,张      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000577522,红星牌电吹风3688/台           ,3688                ,,,台      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000612544,4.8cm50码胶带/卷              ,4.8cm               ,,,卷      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000619710,玫瑰美容套528/套              ,528                 ,,,套      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000641254,K牌指甲刀简装710彩/把         ,710                 ,,,把      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000689324,红盒子AB皮牌匙扣/个           ,                    ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000729396,碱性超霸5号/节                ,5号                 ,,,节      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000741862,碳性长虹7号高能环保6粒/节     ,7号                 ,,,节      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000795636,超霸600MA充电5号/节           ,600MA               ,,,节      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000831198,千代充电宝1300MA+4节5号/套    ,1300MA              ,,,套      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000832706,劲牛充电器KN-00813/台         ,KN-00813            ,,,台      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000833796,双迪充电器RD-788/台           ,RD-788              ,,,台      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000842460,伟乐耳机WL951/付              ,951                 ,,,付      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000987314,汽车3LC240MM长条倒车镜/个     ,3LC240MM            ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000000996088,汽车门边灯AT106/个            ,AT106               ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001017836,韩国擦车布/个                 ,                    ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001022236,25和1(和体)/个                ,                    ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001034598,802铁车/个                    ,802                 ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001079384,6磅哑铃/个                    ,6磅                 ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001089734,佳思达系列台灯9957/台         ,9957                ,,,台      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001138098,网球拍(玩具)/个               ,                    ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001199310,遥控车60886/台                ,60886               ,,,台      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001215522,舒雅印花工艺床单/条           ,2×2.3              ,,,条      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001220168,雪梦青岛双人床单/条           ,2.3×2.6            ,,,条      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001431960,小素材8317纯棉卫生乳垫/袋     ,8317                ,,,袋      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001458172,3号太子狗/个                  ,                    ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001464630,玩具站熊/个                   ,                    ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001472482,好世界纯棉背扣/个             ,                    ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001475148,R-12B钓鱼玩具/个              ,                    ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001478118,鱼玩具/个                     ,                    ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001488490,毛绒大眉毛狗/个               ,                    ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001499526,开心兔/个                     ,                    ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001536078,享得利系列运动包3227/个       ,3227                ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001546800,阳飞鱼2203绒布浴床/个         ,2203                ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001565474,梦嘉欢磨毛床单8698/条         ,2.5*2.5             ,,,条      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001579266,雪域无网长绒棉4公斤/床        ,4公斤               ,,,床      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001597840,百丽丝丽丝被2*2.3/床          ,2*2.3               ,,,床      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001606436,百丽丝7213休闲夏被1.8*2.2/床  ,1.8*2.2             ,,,床      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001724550,1668团/个                     ,                    ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001756926,英吉利刮胡泡清润香型/瓶       ,                    ,,,瓶      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001815180,西洋高凳1310/个               ,1310                ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001824922,功夫和尚/个                   ,                    ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001848232,1637自行车/辆                 ,                    ,,,台      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001889754,珠密琪纹胸225#/个             ,225#                ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001904662,大儿童玩具球/个               ,                    ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001907250,床1511/个                     ,                    ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000001912032,充电车8338/辆                 ,8338                ,,,台      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000002032272,录音蓝猫/兔/个                ,                    ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000002039820,小欢乐狗/个                   ,                    ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000002190132,骨瓷12寸果盘A/个              ,12寸                ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000002234478,寿司/盘                       ,                    ,,,盒      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000002240868,北京烤鸭/只                   ,                    ,,,只      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000002252298,三星期话筒286/支              ,286                 ,,,支      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000002288006,NCT138烟具A/个                ,NCT138              ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000002317492,TD32K40型卡通本/个            ,32K                 ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000002375294,雅芳新炫唇线笔0.28G/支        ,0.28G               ,,,支      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000002386634,伊利荔枝优酸乳250ml/盒        ,250ml               ,,,盒      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000002444280,红双喜32#足球/个              ,32#                 ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000002575342,特价对枕/对                   ,                    ,,,对      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000002633066,44831-1923金边杯/个           ,44831               ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000002661786,亨得利背包1752/个             ,1752                ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000002662394,亨得利背包2739/个             ,2739                ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000002864286,津贝儿童内衣50-65/套          ,50-65               ,,,套      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000002880194,张小泉PHP-16儿童手工剪/把     ,PHP-16              ,,,把      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000002978754,60*60柯式PVC台垫/张           ,60*60               ,,,张      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000002983918,小霸王全自动不锈钢豆浆机/台   ,数码型              ,,,台      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003005510,美美海藻面膜/袋               ,                    ,,,袋      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003027154,德艺带电水壶24CM/个           ,24CM                ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003053276,进进上衣/件                   ,                    ,,,件      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003073076,吉鸿手工钱包/个               ,                    ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003137976,中诺MP3-MB01/台               ,MB01                ,,,台      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003138584,山楂卷100G/支                 ,                    ,,,支      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003149160,书亿文295财会钢笔/支          ,295                 ,,,支      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003196072,品王极品纯蚕丝枕/只           ,                    ,,,只      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003196836,提花条抱枕60*60/个            ,60*60               ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003226762,骨彩游梦7#鲍鱼盘/个           ,                    ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003270086,梦天姿七件套1.8*2.0/套        ,1.8*2.0             ,,,套      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003289200,英雄850钢笔/支                ,850                 ,,,支      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003297120,螺口灯头042/个                ,042                 ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003342974,经典珍藏卡/包                 ,                    ,,,包      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003352188,彩阳特价单人电热毯0.75*1.5/床 ,0.75*1.5            ,,,床      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003402432,圣诞节饰品-5/个               ,                    ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003443022,2006年台历芯/本               ,                    ,,,本      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003449826,15孔枕芯/对                   ,153                 ,,,对      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003503658,蓝达橄榄启子125*6/把          ,125*6               ,,,把      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003503726,蓝达橄榄启子100*6/把          ,100*6               ,,,把      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003522390,薄篮球袜/双                   ,                    ,,,双      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003528026,小哈健8043彩棉夹层肩开套/套   ,                    ,,,套      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003529184,婴幼儿毛裤/条                 ,                    ,,,条      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003731358,唐布拉生薰马肠彩袋/袋         ,                    ,,,袋      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003780936,神龙世家8-5023/个             ,                    ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003781612,保罗拉杆箱/个                 ,                    ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003798092,138-1SBB烟缸/个               ,                    ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003798474,PM-8P刻花碟/个                ,                    ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003805844,女式特价文胸/个               ,                    ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003811302,0902B平光杯/个                ,0902                ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003818196,中国结大号/个                 ,                    ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003843600,西部胶带481200-138/3.5CM/卷   ,                    ,,,卷      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003860980,雄鹰毛巾/条                   ,                    ,,,条      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003923890,黄金身段文胸2932/个           ,                    ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003947728,麦光MG-690中性笔/支           ,                    ,,,支      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003963636,澳琦芳蕾丝弹力无缝内裤9419/条 ,9419                ,,,条      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000003988172,卡拉鸭F-403礼盒/盒            ,F-403               ,,,盒      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000004087768,巨普欧式电水壶2.5L/台         ,2.5L                ,,,台      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000004158802,芬格兰男式背心8030/件         ,                    ,,,件      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000004250254,双鱼正品三星乒乓球/个         ,                    ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000004270122,双利圆棉边多用巾110*160/条    ,                    ,,,条      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000004321220,诺达八元品系列/个             ,                    ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000004343550,环球浴巾0.7*1.4/条            ,                    ,,,条      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000004345226,欧瑟嘉蚕丝被2*2.3/条          ,                    ,,,条      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000099031974,红花生米/千克                 ,                    ,,,千克    ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000099043304,广益葡萄粽/千克               ,千克                ,,,千克    ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000099043540,散孔师傅珍珠肠/千克           ,                    ,,,千克    ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000099053990,缅黄鱼/千克                   ,                    ,,,千克    ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000099054058,鲜平鱼/千克                   ,                    ,,,千克    ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000099061292,水面筋/千克                   ,                    ,,,千克    ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000099069830,泡椒猪皮/千克                 ,                    ,,,千克    ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000099073318,瓜仁饼/千克                   ,                    ,,,千克    ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000099078290,凉拌素虾仁/千克               ,                    ,,,千克    ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000099087582,酱牛肉/千克                   ,                    ,,,千克    ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000099129848,鸡翅尖/千克                   ,                    ,,,千克    ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000099137072,乔麦方便粥/千克               ,                    ,,,千克    ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000099142472,青辣子/千克                   ,                    ,,,千克    ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000099150842,白萝卜/千克                   ,                    ,,,千克    ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000099153676,土豆/千克                     ,                    ,,,千克    ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000099154116,土豆/千克                     ,                    ,,,千克    ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000099160674,秀针菇/千克                   ,                    ,,,千克    ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000099169066,奶油葡萄干/千克               ,                    ,,,千克    ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000099169202,大无花果/千克                 ,                    ,,,千克    ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000099186896,三全蛋奶馒头/kg               ,                    ,,,PCS     ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000099187954,鹅脖/千克                     ,                    ,,,千克    ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000099197618,徐福记沙琪玛/千克             ,                    ,,,千克    ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000099210164,营养甘薯/千克                 ,                    ,,,千克    ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4000099217408,墨鱼干/千克                   ,                    ,,,千克    ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4004040128041,宜兴紫砂1#工艺壶              ,NULL,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4004046738046,宜兴紫砂小牛                  ,NULL,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4008066090764,高白吊匙                      ,NULL,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4018091070440,富士百合花三号光口汤窝        ,NULL,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4710108380534,100G嘉纯净螨女士修护霜        ,1*8*12,,,瓶  ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4710108384150,护士长净螨男士霜              ,1*12,,,支  ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4710168702079,黑人白绿双星牙膏二送一        ,NULL,,,捆      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4710218420298,蜜汁芭乐干                    ,NULL,,,罐      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4710260000448,50g进口玉兰油美白防晒         ,1*6,,,支  ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4711577000107,派通50色油画棒                ,NULL,,,套      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4711734040403,手牌0404美工刀                ,404                 ,,,把      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4711860100071,奇能701相机                   ,NULL,,,台      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4713376096787,乔莉斯保暖连裤袜              ,NULL,,,件      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4744779266059,美神双眼皮贴                  ,,,,块  ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4891214113114,自然派棉花糖100g              ,NULL,,,包      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4891388109968,2升红灯调和油                 ,NULL,,,瓶      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4891516291237,三角唛开心果68G*30            ,NULL,,,包      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4891696316898,嘉利雪白防虫丸                ,NULL,,,包      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4892253026571,高卡迪斑干净                  ,,,,合  ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4892253026755,条高长迪                      ,,,,支  ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4895084422512,柏登少女袜009                 ,NULL,,,双      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4901780761494,索尼随身听 EX631              ,NULL,,,台      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4901780868131,索尼VCD/CD                    ,700                 ,,,台      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4905524146981,爱华GS202耳机                 ,NULL,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4961373059711,P26368花瓶/个                 ,P26368              ,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+4972525510998,GS-525捷毛夹                  ,NULL,,,包      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
+5032274005455,日升收音机RS-917              ,NULL,,,个      ,,0.0000,0.0000,2017-07-10 16:56:44,,0,None,None
